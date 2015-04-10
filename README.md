@@ -36,10 +36,10 @@ Collection of useful links for Clojurians.  Inspired by other awesome-* stuffs.
 | Clojure interfaces | http://spootnik.org/entries/2014/11/06_playing-with-clojure-core-interfaces.html
 | Clojure at MixRadio | http://dev.mixrad.io/blog/2014/10/19/Clojure-libraries/
 | Clojure Macros explained | http://www.braveclojure.com/writing-macros/
-| Fast and Scalable Clojure Ring Web Applications with Comsat | http://getprismatic.com/story/1421983286985
 | Weird Clojure characters explained | http://yobriefca.se/blog/2014/05/19/the-weird-and-wonderful-characters-of-clojure/
+| Ring Web Applications with Comsat | http://getprismatic.com/story/1421983286985
 | Compojure tutorial | http://learnxinyminutes.com/docs/compojure/
-| Open Source Clojure Library for Geospatial Information | http://blog.factual.com/open-source-clojure-library-for-geospatial-information
+| Geospatial Information | http://blog.factual.com/open-source-clojure-library-for-geospatial-information
 
 ## projects
 
