@@ -38,15 +38,18 @@ Collection of useful links for Clojurians.  Inspired by other awesome-* stuffs.
 | Clojure Macros explained | http://www.braveclojure.com/writing-macros/
 | Fast and Scalable Clojure Ring Web Applications with Comsat | http://getprismatic.com/story/1421983286985
 | Weird Clojure characters explained | http://yobriefca.se/blog/2014/05/19/the-weird-and-wonderful-characters-of-clojure/
+| Compojure tutorial | http://learnxinyminutes.com/docs/compojure/
 | Open Source Clojure Library for Geospatial Information | http://blog.factual.com/open-source-clojure-library-for-geospatial-information
 
 ## projects
 
-Following is a list of amazing projects, worth to keep an eye on. Descriptive information of each of these projects was taken directly from their home pages.
+Following is a list of amazing projects, worth to keep an eye on.
 
 ### clojurescript
 
 ClojureScript is a new compiler for Clojure that targets JavaScript. It is designed to emit JavaScript code which is compatible with the advanced compilation mode of the Google Closure optimizing compiler.
+
+https://github.com/clojure/clojurescript
 
 | Description | Link |
 |-------------|------|
@@ -58,6 +61,8 @@ ClojureScript is a new compiler for Clojure that targets JavaScript. It is desig
 ### datomic
 
 The fully transactional, cloud-ready, distributed database.
+
+http://www.datomic.com/
 
 | Description | Link |
 |-------------|------|
@@ -72,7 +77,7 @@ http://boot-clj.com/
 
 ### hoplon
 
-Hoplon provides a number of libraries promoting a simpler model for web applications. The project can be divided into three main components: the HTML evaluator, the clientside state machine, and serverside RPC middleware. These components can be used together as a full stack, or individually as a part of another stack.
+Hoplon provides a number of libraries promoting a simpler model for web applications.
 
 http://hoplon.io/
 
@@ -105,21 +110,13 @@ Reagent cookbook https://github.com/reagent-project/reagent-cookbook
 Creating reagent components https://github.com/Day8/re-frame/wiki/Creating-Reagent-Components
 Why reagent rocks? http://www.mattgreer.org/articles/reagent-rocks/
 
-### compojure
-
-Routing library for Ring.
-
-https://github.com/weavejester/compojure/wiki
-
-Compojure tutorial http://learnxinyminutes.com/docs/compojure/
-
-### Korma
+### korma
 
 Korma is a domain specific language for Clojure that takes the pain out of working with your favorite RDBMS. Built for speed and designed for flexibility.
 
 http://sqlkorma.com
 
-### Riemann
+### riemann
 
 Riemann aggregates events from your servers and applications with a powerful stream processing language.
 
@@ -132,6 +129,7 @@ Interesting libraries, style guides, etc. found on github
 |-------------|------|
 | A community coding style guide for the Clojure programming language | https://github.com/bbatsov/clojure-style-guide
 | This is the home of O'Reilly's Clojure Cookbook | https://github.com/clojure-cookbook/clojure-cookbook
+| Routing library for Ring | https://github.com/weavejester/compojure/wiki
 | Example project for Cljs/Om using Boot instead of Lein. Inspired by Chestnut. | https://github.com/Deraen/saapas
 | Clojure static page generation using boot | https://github.com/DanThiffault/boot-pages
 | Simple css/js asset fingerprinting for Boot | https://github.com/pointslope/boot-fingerprint
