@@ -95,7 +95,6 @@ https://github.com/omcljs/om
 |-------------|------|
 | Om cookbook | https://github.com/om-cookbook/om-cookbook
 | Application template for ClojureScript/Om with live reloading | https://github.com/plexus/chestnut
-| High performance web UI with Om and React | http://www.slideshare.net/borgesleonardo/high-performance-web-apps-in-om-react-and-clojurescript |
 | Om interop with 3rd party JS libs | http://www.stuttaford.me/2014/08/10/om-interop-with-3rd-party-libs/
 | Mistakes to avoid when creating an Om component. Part 1. | http://annapawlicka.com/common-mistakes-to-avoid-when-creating-an-om-component-part-1/
 | Mistakes to avoid when creating an Om component. Part 2. | http://annapawlicka.com/common-mistakes-to-avoid-when-creating-an-om-component-part-2/
