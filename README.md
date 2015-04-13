@@ -159,3 +159,4 @@ Interesting libraries, style guides, etc. found on github
 | Display ghostly yesql defqueries inline, in Emacs | https://github.com/magnars/yesql-ghosts
 | A lightweight ClojureScript abstraction over ReactJS | https://github.com/levand/quiescent
 | Clojure file and directory watcher | https://github.com/wkf/hawk
+| Types again :) | https://github.com/arrdem/guten-tag
