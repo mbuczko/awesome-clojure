@@ -106,6 +106,8 @@ https://github.com/omcljs/om
 | Mistakes to avoid when creating an Om component. Part 1. | http://annapawlicka.com/common-mistakes-to-avoid-when-creating-an-om-component-part-1/
 | Mistakes to avoid when creating an Om component. Part 2. | http://annapawlicka.com/common-mistakes-to-avoid-when-creating-an-om-component-part-2/
 | High performance web apps in Om and React | http://www.slideshare.net/borgesleonardo/high-performance-web-apps-in-om-react-and-clojurescript 
+| Removing bloilerplate | http://blog.tarn-vedra.de/posts/om-removing-boilerplate.html
+
 ### reagent
 
 Minimalistic Ract for ClojureScript.
