@@ -25,7 +25,6 @@ Collection of useful links for Clojurians.  Inspired by other awesome-* stuffs.
 | Tons of cool ideas | http://yogthos.net
 | Anna Pawlicka's helpful notes | http://annapawlicka.com/
 | Jessica Kerr | http://blog.jessitron.com/
-| ClojureWerkz | http://blog.clojurewerkz.org/
 
 ## articles
 
