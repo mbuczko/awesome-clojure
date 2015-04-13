@@ -24,6 +24,8 @@ Collection of useful links for Clojurians.  Inspired by other awesome-* stuffs.
 | Learn the ultimate language, become a better programmer | http://www.braveclojure.com
 | Tons of cool ideas | http://yogthos.net
 | Anna Pawlicka's helpful notes | http://annapawlicka.com/
+| Jessica Kerr | http://blog.jessitron.com/
+| ClojureWerkz | http://blog.clojurewerkz.org/
 
 ## articles
 
@@ -42,6 +44,9 @@ Collection of useful links for Clojurians.  Inspired by other awesome-* stuffs.
 | Geospatial Information | http://blog.factual.com/open-source-clojure-library-for-geospatial-information
 | Clojure web-apps IDs with Hashids | http://www.jasonstrutz.com/posts/obfuscate-your-clojure-webapp-ids-with-hashids/
 | Securing Clojure Microservices using buddy | http://rundis.github.io/blog/2015/buddy_auth_part1.html
+| Setup TDD workflow for Clojure | http://suva.sh/2014/10/27/test-workflow-setup-for-clojure/
+| Microservice Architecture With Slacker Cluster | http://sunng.info/blog/blog/2014/07/08/microservice-and-slacker-cluster/
+| Understanding transducers | http://elbenshira.com/blog/understanding-transducers/
 
 ## projects
 
@@ -121,11 +126,20 @@ Korma is a domain specific language for Clojure that takes the pain out of worki
 
 http://sqlkorma.com
 
+| Description | Link |
+|-------------|------|
+| Tasty korma recipes | http://lab.brightnorth.co.uk/2014/10/03/tasty-korma-recipies/
+
 ### riemann
 
 Riemann aggregates events from your servers and applications with a powerful stream processing language.
 
 http://riemann.io/
+
+| Description | Link |
+|-------------|------|
+| An Introduction to Riemann | http://kartar.net/2014/12/an-introduction-to-riemann/
+
 
 ## github
 Interesting libraries, style guides, etc. found on github
@@ -163,3 +177,5 @@ Interesting libraries, style guides, etc. found on github
 | Clojure file and directory watcher | https://github.com/wkf/hawk
 | Types again :) | https://github.com/arrdem/guten-tag
 | ClojureScript interface to local and session storage | https://github.com/funcool/hodgepodge
+| A tiny Clojure routing library for Ring | https://github.com/taylorlapeyre/nav
+
