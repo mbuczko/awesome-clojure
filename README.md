@@ -56,6 +56,7 @@ https://github.com/clojure/clojurescript
 | Javascript libraries packaged up with Google Closure externs | https://github.com/cljsjs/packages
 | Kioo example | http://adambard.com/blog/a-simple-clojurescript-app/
 | ClojureScript tutorial | http://www.niwi.be/cljs-workshop/
+| Promises and Clojurescript | http://www.niwi.be/2015/03/28/promises-and-clojurescript/
 | Translations from Javascript | http://kanaka.github.io/clojurescript/web/synonym.html
 
 ### datomic
