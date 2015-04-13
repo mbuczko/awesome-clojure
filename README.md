@@ -40,6 +40,7 @@ Collection of useful links for Clojurians.  Inspired by other awesome-* stuffs.
 | Ring Web Applications with Comsat | http://getprismatic.com/story/1421983286985
 | Compojure tutorial | http://learnxinyminutes.com/docs/compojure/
 | Geospatial Information | http://blog.factual.com/open-source-clojure-library-for-geospatial-information
+| Clojure web-apps IDs with Hashids | http://www.jasonstrutz.com/posts/obfuscate-your-clojure-webapp-ids-with-hashids/
 
 ## projects
 
