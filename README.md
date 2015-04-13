@@ -160,3 +160,4 @@ Interesting libraries, style guides, etc. found on github
 | A lightweight ClojureScript abstraction over ReactJS | https://github.com/levand/quiescent
 | Clojure file and directory watcher | https://github.com/wkf/hawk
 | Types again :) | https://github.com/arrdem/guten-tag
+| ClojureScript interface to local and session storage | https://github.com/funcool/hodgepodge
