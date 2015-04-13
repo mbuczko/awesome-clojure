@@ -41,6 +41,7 @@ Collection of useful links for Clojurians.  Inspired by other awesome-* stuffs.
 | Compojure tutorial | http://learnxinyminutes.com/docs/compojure/
 | Geospatial Information | http://blog.factual.com/open-source-clojure-library-for-geospatial-information
 | Clojure web-apps IDs with Hashids | http://www.jasonstrutz.com/posts/obfuscate-your-clojure-webapp-ids-with-hashids/
+| Securing Clojure Microservices using buddy | http://rundis.github.io/blog/2015/buddy_auth_part1.html
 
 ## projects
 
