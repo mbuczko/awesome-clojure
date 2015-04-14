@@ -7,6 +7,7 @@ Collection of useful links for Clojurians.  Inspired by other awesome-* stuffs.
   - [Articles](#articles)
   - [Projects](#projects)
   - [Github](#github)
+  - [Twitter](#twitter)
 
 ## aggregators
 
@@ -180,3 +181,27 @@ Interesting libraries, style guides, etc. found on github
 | ClojureScript interface to local and session storage | https://github.com/funcool/hodgepodge
 | A tiny Clojure routing library for Ring | https://github.com/taylorlapeyre/nav
 | Minimal React wrapper for ClojureScript | https://github.com/tonsky/rum
+
+## twitter
+
+People to follow, writing about clojure/lisp:
+
+- [@richhickey] (https://twitter.com/richhickey)
+- [@bbatsov] (https://twitter.com/bbatsov)
+- [@cognitect] (https://twitter.com/cognitect)
+- [@adzerktech] (https://twitter.com/adzerktech)
+- [@alandipert] (https://twitter.com/alandipert)
+- [@michaniskin] (https://twitter.com/michaniskin)
+- [@stuartsierra] (https://twitter.com/stuartsierra)
+- [@weavejester] (https://twitter.com/weavejester)
+- [@stuarthalloway] (https://twitter.com/stuarthalloway)
+- [@juliansgamble] (https://twitter.com/juliansgamble)
+- [@swannodette] (https://twitter.com/swannodette)
+- [@jwiegley] (https://twitter.com/jwiegley)
+- [@ClojureFact] (https://twitter.com/ClojureFact)
+- [@ClojureRecipes] (https://twitter.com/ClojureRecipes)
+- [@ClojureWerkz] (https://twitter.com/ClojureWerkz)
+- [@planetclojure] (https://twitter.com/planetclojure)
+- [@thelittlelisper] (https://twitter.com/thelittlelisper)
+- [@pithyless] (https://twitter.com/pithyless)
+- [@haksior] (https://twitter.com/haksior)
