@@ -6,6 +6,7 @@ Collection of useful links for Clojurians.  Inspired by other awesome-* stuffs.
   - [Blogs](#blogs)
   - [Articles](#articles)
   - [Projects](#projects)
+  - [Utils](#utils)
   - [Github](#github)
   - [Twitter](#twitter)
 
@@ -143,8 +144,17 @@ http://riemann.io/
 | An Introduction to Riemann | http://kartar.net/2014/12/an-introduction-to-riemann/
 
 
+## utils
+Utilities making development even more pleasant
+
+| Description | Link |
+|-------------|------|
+| General Purpose Utilities Library | https://github.com/zcaudate/hara
+| Language extensions for clojurescript | https://github.com/purnam/purnam
+| Give your clojure workflow more flow | https://github.com/zcaudate/vinyasa
+
 ## github
-Interesting libraries, style guides, etc. found on github
+Other interesting libraries, style guides, etc. found on github
 
 | Description | Link |
 |-------------|------|
