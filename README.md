@@ -5,6 +5,7 @@ Collection of useful links for Clojurians.  Inspired by other awesome-* stuffs.
   - [Aggregators](#aggregators)
   - [Blogs](#blogs)
   - [Articles](#articles)
+  - [Documentation] (#documentation)
   - [Projects](#projects)
   - [Utils](#utils)
   - [Github](#github)
@@ -40,6 +41,7 @@ Collection of useful links for Clojurians.  Inspired by other awesome-* stuffs.
 | Clojure at MixRadio | http://dev.mixrad.io/blog/2014/10/19/Clojure-libraries/
 | Clojure Macros explained | http://www.braveclojure.com/writing-macros/
 | Weird Clojure characters explained | http://yobriefca.se/blog/2014/05/19/the-weird-and-wonderful-characters-of-clojure/
+| Debugging clojure | https://aphyr.com/posts/319-clojure-from-the-ground-up-debugging
 | Ring Web Applications with Comsat | http://getprismatic.com/story/1421983286985
 | Compojure tutorial | http://learnxinyminutes.com/docs/compojure/
 | Geospatial Information | http://blog.factual.com/open-source-clojure-library-for-geospatial-information
@@ -48,6 +50,19 @@ Collection of useful links for Clojurians.  Inspired by other awesome-* stuffs.
 | Setup TDD workflow for Clojure | http://suva.sh/2014/10/27/test-workflow-setup-for-clojure/
 | Microservice Architecture With Slacker Cluster | http://sunng.info/blog/blog/2014/07/08/microservice-and-slacker-cluster/
 | Understanding transducers | http://elbenshira.com/blog/understanding-transducers/
+
+## documentation
+
+Function description needed? Eager of examples / tutorials? Take a look at one of following sources:
+
+| Description | Link |
+|-------------|------|
+| Community-driven documentation site for the Clojure | http://clojure-doc.org/
+| Community-powered documentation and examples | http://clojuredocs.org/
+| Community Clojure Documentation | http://conj.io/
+| Cross-referencing the Clojure ecosystem | http://crossclj.info/
+| Clojure* cheatsheets | http://jafingerhut.github.io/
+| ClojureScript cheatsheets | http://cljs.info/cheatsheet/
 
 ## projects
 
@@ -77,6 +92,15 @@ http://www.datomic.com/
 |-------------|------|
 | Helper library for datomic | https://github.com/flyingmachine/datomic-junk
 | Interactive tutorial | http://www.learndatalogtoday.org/
+
+### core.async
+
+Facilities for async programming and communication in Clojure
+
+| Description | Link |
+|-------------|------|
+| Examples | https://github.com/halgari/clojure-conj-2013-core.async-examples/blob/master/src/clojure_conj_talk/core.clj
+| Tutorials | https://github.com/martintrojer/go-tutorials-core-async
 
 ### boot
 
