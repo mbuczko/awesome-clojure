@@ -50,6 +50,7 @@ Collection of useful links for Clojurians.  Inspired by other awesome-* stuffs.
 | Setup TDD workflow for Clojure | http://suva.sh/2014/10/27/test-workflow-setup-for-clojure/
 | Microservice Architecture With Slacker Cluster | http://sunng.info/blog/blog/2014/07/08/microservice-and-slacker-cluster/
 | Understanding transducers | http://elbenshira.com/blog/understanding-transducers/
+| Testing Clojure with Selenium | https://semaphoreci.com/community/tutorials/testing-clojure-web-applications-with-selenium
 
 ## documentation
 
