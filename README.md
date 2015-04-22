@@ -216,6 +216,7 @@ Other interesting libraries, style guides, etc. found on github
 | ClojureScript interface to local and session storage | https://github.com/funcool/hodgepodge
 | A tiny Clojure routing library for Ring | https://github.com/taylorlapeyre/nav
 | Minimal React wrapper for ClojureScript | https://github.com/tonsky/rum
+| A Ragtime extention for ArangoDB | https://github.com/deusdat/waller
 
 ## twitter
 
