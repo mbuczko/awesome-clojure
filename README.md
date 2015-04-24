@@ -220,6 +220,7 @@ Other interesting libraries, style guides, etc. found on github
 | Minimal React wrapper for ClojureScript | https://github.com/tonsky/rum
 | A Ragtime extention for ArangoDB | https://github.com/deusdat/waller
 | Contracts programming with Clojure | https://github.com/fogus/trammel
+| Threadpool tools for Clojure | https://github.com/TheClimateCorporation/claypoole
 
 ## twitter
 
