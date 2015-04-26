@@ -110,6 +110,10 @@ Build tooling for Clojure.
 
 http://boot-clj.com/
 
+| Description | Link |
+|-------------|------|
+| Boot, the Fancy New Clojure Build Framework | http://www.flyingmachinestudios.com/programming/boot-clj/
+
 ### hoplon
 
 Hoplon provides a number of libraries promoting a simpler model for web applications.
