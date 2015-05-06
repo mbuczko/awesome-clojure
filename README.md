@@ -54,6 +54,7 @@ Collection of useful links for Clojurians.  Inspired by other awesome-* stuffs.
 | Testing Clojure web apps with kerodon | https://semaphoreci.com/community/tutorials/testing-clojure-web-applications-with-kerodon
 | Integration tests with Midje | http://lab.brightnorth.co.uk/2014/05/07/midje-rocks-integration-testing-in-clojure/
 | Streaming responses using ring | https://nelsonmorris.net/2015/04/22/streaming-responses-using-ring.html
+| Pixie Pi | http://stuarth.github.io/pixie/pixie-pi/
 
 ## documentation
 
