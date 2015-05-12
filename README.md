@@ -232,6 +232,7 @@ Other interesting libraries, style guides, etc. found on github
 | Threadpool tools for Clojure | https://github.com/TheClimateCorporation/claypoole
 | Utility library to write microservices in Clojure | https://github.com/zalando-stups/friboo
 | Experimental multilenses | https://github.com/ctford/traversy
+| A Constraint Programming library for Clojure | https://github.com/aengelberg/loco
 
 ## twitter
 
