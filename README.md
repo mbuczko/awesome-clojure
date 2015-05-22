@@ -178,6 +178,11 @@ http://riemann.io/
 |-------------|------|
 | An Introduction to Riemann | http://kartar.net/2014/12/an-introduction-to-riemann/
 
+### yada
+
+Yada is a library that helps building RESTful web APIs quickly and easily.
+
+http://yada.juxt.pro
 
 ## utils
 Utilities making development even more pleasant
