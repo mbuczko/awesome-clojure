@@ -199,6 +199,7 @@ Other interesting libraries, style guides, etc. found on github
 | Clojure static page generation using boot | https://github.com/DanThiffault/boot-pages
 | Simple css/js asset fingerprinting for Boot | https://github.com/pointslope/boot-fingerprint
 | Init scheme with service supervision with Boot | https://github.com/danielsz/boot-runit
+| Compatibility layer with the environ library | https://github.com/danielsz/boot-environ
 | Database migrations with Ragtime using Boot | https://github.com/mbuczko/boot-ragtime
 | Security library for Clojure | https://github.com/niwibe/buddy
 | Enlive/Enfocus style templating for Facebook's React and Om in ClojureScript | https://github.com/ckirkendall/kioo
