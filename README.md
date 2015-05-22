@@ -81,7 +81,7 @@ https://github.com/clojure/clojurescript
 
 | Description | Link |
 |-------------|------|
-| Javascript libraries packaged up with Google Closure externs | https://github.com/cljsjs/packages
+| Javascript libraries packaged up with Google Closure externs | https://github.com/cljsjs/packages / http://cljsjs.github.io/
 | Kioo example | http://adambard.com/blog/a-simple-clojurescript-app/
 | ClojureScript tutorial | http://www.niwi.be/cljs-workshop/
 | Promises and Clojurescript | http://www.niwi.be/2015/03/28/promises-and-clojurescript/
