@@ -57,6 +57,7 @@ Collection of useful links for Clojurians.  Inspired by other awesome-* stuffs.
 | Streaming responses using ring | https://nelsonmorris.net/2015/04/22/streaming-responses-using-ring.html
 | Polymorfic performance | http://insideclojure.org/2015/04/27/poly-perf/
 | Pixie Pi | http://stuarth.github.io/pixie/pixie-pi/
+| Clojure in Production: Logging | http://brownsofa.org/blog/2015/06/14/clojure-in-production-logging/
 
 ## documentation
 
