@@ -245,6 +245,7 @@ Other interesting libraries, style guides, etc. found on github
 | Experimental multilenses | https://github.com/ctford/traversy
 | A Constraint Programming library for Clojure | https://github.com/aengelberg/loco
 | Logo in Clojure | https://github.com/google/clojure-turtle
+| Elegant and efficient remote data access | https://github.com/kachayev/muse
 
 ## twitter
 
