@@ -120,6 +120,7 @@ http://boot-clj.com/
 | Description | Link |
 |-------------|------|
 | Boot, the Fancy New Clojure Build Framework | http://www.flyingmachinestudios.com/programming/boot-clj/
+| Advanced Boot Scripting | https://lionfacelemonface.wordpress.com/2015/04/11/advanced-boot-scripting/
 
 ### hoplon
 
