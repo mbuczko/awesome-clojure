@@ -244,6 +244,7 @@ Other interesting libraries, style guides, etc. found on github
 | Utility library to write microservices in Clojure | https://github.com/zalando-stups/friboo
 | Experimental multilenses | https://github.com/ctford/traversy
 | A Constraint Programming library for Clojure | https://github.com/aengelberg/loco
+| Logo in Clojure | https://github.com/google/clojure-turtle
 
 ## twitter
 
