@@ -58,6 +58,7 @@ Collection of useful links for Clojurians.  Inspired by other awesome-* stuffs.
 | Polymorfic performance | http://insideclojure.org/2015/04/27/poly-perf/
 | Pixie Pi | http://stuarth.github.io/pixie/pixie-pi/
 | Clojure in Production: Logging | http://brownsofa.org/blog/2015/06/14/clojure-in-production-logging/
+| Clojurescript application template | http://martinklepsch.github.io/tenzing/
 
 ## documentation
 
