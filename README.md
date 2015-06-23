@@ -246,6 +246,7 @@ Other interesting libraries, style guides, etc. found on github
 | A Constraint Programming library for Clojure | https://github.com/aengelberg/loco
 | Logo in Clojure | https://github.com/google/clojure-turtle
 | Elegant and efficient remote data access | https://github.com/kachayev/muse
+| Geometry toolkit for Clojure/ClojureScript | https://github.com/thi-ng/geom
 
 ## twitter
 
