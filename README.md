@@ -59,7 +59,7 @@ Collection of useful links for Clojurians.  Inspired by other awesome-* stuffs.
 | Pixie Pi | http://stuarth.github.io/pixie/pixie-pi/
 | Clojure in Production: Logging | http://brownsofa.org/blog/2015/06/14/clojure-in-production-logging/
 | Clojurescript application template | http://martinklepsch.github.io/tenzing/
-
+| Efficient, Concurrent and Concise Data Access in Clojure | https://speakerdeck.com/kachayev/efficient-concurrent-and-concise-data-access-in-clojure
 ## documentation
 
 Function description needed? Eager of examples / tutorials? Take a look at one of following sources:
