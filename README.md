@@ -247,6 +247,7 @@ Other interesting libraries, style guides, etc. found on github
 | Logo in Clojure | https://github.com/google/clojure-turtle
 | Elegant and efficient remote data access | https://github.com/kachayev/muse
 | Geometry toolkit for Clojure/ClojureScript | https://github.com/thi-ng/geom
+| DSL for building client to remote service APIs | https://github.com/outpace/remote
 
 ## twitter
 
