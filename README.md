@@ -60,6 +60,8 @@ Collection of useful links for Clojurians.  Inspired by other awesome-* stuffs.
 | Clojure in Production: Logging | http://brownsofa.org/blog/2015/06/14/clojure-in-production-logging/
 | Clojurescript application template | http://martinklepsch.github.io/tenzing/
 | Efficient, Concurrent and Concise Data Access in Clojure | https://speakerdeck.com/kachayev/efficient-concurrent-and-concise-data-access-in-clojure
+| Pimp my REPL | http://dev.solita.fi/2014/03/18/pimp-my-repl.html
+
 ## documentation
 
 Function description needed? Eager of examples / tutorials? Take a look at one of following sources:
