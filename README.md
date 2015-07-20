@@ -251,6 +251,7 @@ Other interesting libraries, style guides, etc. found on github
 | Geometry toolkit for Clojure/ClojureScript | https://github.com/thi-ng/geom
 | DSL for building client to remote service APIs | https://github.com/outpace/remote
 | Trace-oriented debugging tools for Clojure | https://github.com/dgrnbrg/spyscope
+| New dependencies in REPL on the fly | https://github.com/zcaudate/vinyasa
 
 ## twitter
 
