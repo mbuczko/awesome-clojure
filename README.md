@@ -250,6 +250,7 @@ Other interesting libraries, style guides, etc. found on github
 | Elegant and efficient remote data access | https://github.com/kachayev/muse
 | Geometry toolkit for Clojure/ClojureScript | https://github.com/thi-ng/geom
 | DSL for building client to remote service APIs | https://github.com/outpace/remote
+| Trace-oriented debugging tools for Clojure | https://github.com/dgrnbrg/spyscope
 
 ## twitter
 
