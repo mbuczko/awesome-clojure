@@ -252,6 +252,8 @@ Other interesting libraries, style guides, etc. found on github
 | DSL for building client to remote service APIs | https://github.com/outpace/remote
 | Trace-oriented debugging tools for Clojure | https://github.com/dgrnbrg/spyscope
 | New dependencies in REPL on the fly | https://github.com/zcaudate/vinyasa
+| Priority map | https://github.com/clojure/data.priority-map
+| Durable queue implementation | https://github.com/layerware/pgqueue
 
 ## twitter
 
