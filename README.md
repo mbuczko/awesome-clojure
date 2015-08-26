@@ -26,9 +26,10 @@ Collection of useful links for Clojurians.  Inspired by other awesome-* stuffs.
 | News and updates about ClojureWerkz projects | http://blog.clojurewerkz.org/
 | Learn the ultimate language, become a better programmer | http://www.braveclojure.com
 | Tons of cool ideas | http://yogthos.net
-| Anna Pawlicka's helpful notes | http://annapawlicka.com/
-| Jessica Kerr | http://blog.jessitron.com/
 | Parens of death | http://www.parens-of-the-dead.com/
+| Anna Pawlicka | http://annapawlicka.com/
+| Jessica Kerr | http://blog.jessitron.com/
+| Stuart Sierra | http://stuartsierra.com/
 
 ## articles
 
