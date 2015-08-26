@@ -18,6 +18,7 @@ Collection of useful links for Clojurians.  Inspired by other awesome-* stuffs.
 | opensource packages in for Clojure ecosystem | http://www.clojuresphere.com/
 | posts from various Clojure hackers and contributors | http://planet.clojure.in/
 | A categorised directory of libraries and tools for Clojure | http://www.clojure-toolbox.com/
+| Clojure daily | http://paper.li/ajlopez/1291580164
 
 ## blogs
 
