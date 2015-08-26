@@ -255,6 +255,7 @@ Other interesting libraries, style guides, etc. found on github
 | New dependencies in REPL on the fly | https://github.com/zcaudate/vinyasa
 | Priority map | https://github.com/clojure/data.priority-map
 | Durable queue implementation | https://github.com/layerware/pgqueue
+| A really lightweight Clojure scheduler | https://github.com/jarohen/chime
 
 ## twitter
 
