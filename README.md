@@ -163,6 +163,7 @@ http://holmsand.github.io/reagent/
 |-------------|------|
 | Reagent cookbook | https://github.com/reagent-project/reagent-cookbook
 | Reagent Framework For Writing SPAs, in Clojurescript | https://github.com/Day8/re-frame
+| No-hashes bidirectional routing in re-frame with bidi and pushy | https://carouselapps.com/2015/08/26/no-hashes-bidirectional-routing-in-re-frame-with-bidi-and-pushy/
 | Creating reagent components | https://github.com/Day8/re-frame/wiki/Creating-Reagent-Components
 | Why reagent rocks? | http://www.mattgreer.org/articles/reagent-rocks/
 | TodoMVC for Reagent | https://github.com/tastejs/todomvc
