@@ -259,6 +259,7 @@ Other interesting libraries, style guides, etc. found on github
 | Priority map | https://github.com/clojure/data.priority-map
 | Durable queue implementation | https://github.com/layerware/pgqueue
 | A really lightweight Clojure scheduler | https://github.com/jarohen/chime
+| Interface to the Pikaday js date-picker | https://github.com/timgilbert/cljs-pikaday
 
 ## twitter
 
