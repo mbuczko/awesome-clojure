@@ -9,6 +9,7 @@ Collection of useful links for Clojurians.  Inspired by other awesome-* stuffs.
   - [Projects](#projects)
   - [Utils](#utils)
   - [Github](#github)
+  - [YouTube](#youtube)
   - [Twitter](#twitter)
 
 ## aggregators
@@ -263,6 +264,16 @@ Other interesting libraries, style guides, etc. found on github
 | Durable queue implementation | https://github.com/layerware/pgqueue
 | A really lightweight Clojure scheduler | https://github.com/jarohen/chime
 | Interface to the Pikaday js date-picker | https://github.com/timgilbert/cljs-pikaday
+
+## youtube
+
+Must-have YouTube subscriptions:
+
+- [ClojureTV](https://www.youtube.com/user/ClojureTV)
+- [Metosin](https://www.youtube.com/channel/UC1lFJanm5Wp6IpNk-2C1Sxw)
+- [:clojureD](https://www.youtube.com/channel/UCOTrRnxBOllb9UHLuap_lPg)
+- [StrangeLoop](https://www.youtube.com/channel/UC_QIfHvN9auy2CoOdSfMWDw)
+- [PolyConf](https://www.youtube.com/user/polyconf)
 
 ## twitter
 
