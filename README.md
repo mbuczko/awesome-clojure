@@ -31,6 +31,7 @@ Collection of useful links for Clojurians.  Inspired by other awesome-* stuffs.
 | Anna Pawlicka | http://annapawlicka.com/
 | Jessica Kerr | http://blog.jessitron.com/
 | Stuart Sierra | http://stuartsierra.com/
+| Parallel Universe | http://blog.paralleluniverse.co
 
 ## articles
 
@@ -64,6 +65,8 @@ Collection of useful links for Clojurians.  Inspired by other awesome-* stuffs.
 | Clojurescript application template | http://martinklepsch.github.io/tenzing/
 | Efficient, Concurrent and Concise Data Access in Clojure | https://speakerdeck.com/kachayev/efficient-concurrent-and-concise-data-access-in-clojure
 | Pimp my REPL | http://dev.solita.fi/2014/03/18/pimp-my-repl.html
+| Clojure (Prismatic) Schemas are Swagger | http://www.javacodegeeks.com/2015/09/clojure-prismatic-schemas-are-swagger.html
+| Practical Data Coercion With Prismatic/schema | http://camdez.com/blog/2015/08/27/practical-data-coercion-with-prismatic-schema/
 
 ## documentation
 
