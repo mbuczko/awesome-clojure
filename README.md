@@ -266,6 +266,7 @@ Other interesting libraries, style guides, etc. found on github
 | Interface to the Pikaday js date-picker | https://github.com/timgilbert/cljs-pikaday
 | REPL functions to support the reloaded workflow | https://github.com/weavejester/reloaded.repl
 | Control throughput of function calls and core.async channels | https://github.com/brunoV/throttler
+| Managing Clojure app state since (reset) | https://github.com/tolitius/mount
 
 ## youtube
 
