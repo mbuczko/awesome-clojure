@@ -267,6 +267,7 @@ Other interesting libraries, style guides, etc. found on github
 | REPL functions to support the reloaded workflow | https://github.com/weavejester/reloaded.repl
 | Control throughput of function calls and core.async channels | https://github.com/brunoV/throttler
 | Managing Clojure app state since (reset) | https://github.com/tolitius/mount
+| "Smarter" threading macros | https://github.com/maitria/packthread
 
 ## youtube
 
