@@ -68,6 +68,7 @@ Collection of useful links for Clojurians.  Inspired by other awesome-* stuffs.
 | Pimp my REPL | http://dev.solita.fi/2014/03/18/pimp-my-repl.html
 | Clojure (Prismatic) Schemas are Swagger | http://www.javacodegeeks.com/2015/09/clojure-prismatic-schemas-are-swagger.html
 | Practical Data Coercion With Prismatic/schema | http://camdez.com/blog/2015/08/27/practical-data-coercion-with-prismatic-schema/
+| Clojure Design Patterns | http://mishadoff.com/blog/clojure-design-patterns/
 
 ## documentation
 
