@@ -174,6 +174,8 @@ http://holmsand.github.io/reagent/
 | Creating reagent components | https://github.com/Day8/re-frame/wiki/Creating-Reagent-Components
 | Why reagent rocks? | http://www.mattgreer.org/articles/reagent-rocks/
 | TodoMVC for Reagent | https://github.com/tastejs/todomvc
+| Applications built with Reagent | https://github.com/reagent-project/reagent/wiki/Applications-built-with-Reagent
+
 
 ### korma
 
