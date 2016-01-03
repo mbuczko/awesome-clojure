@@ -103,6 +103,7 @@ https://github.com/clojure/clojurescript
 | Promises and Clojurescript | http://www.niwi.be/2015/03/28/promises-and-clojurescript/
 | Translations from Javascript | http://kanaka.github.io/clojurescript/web/synonym.html
 | Modern ClojureScript | https://github.com/magomimmo/modern-cljs
+| Visual REPL experience for ClojureScript | https://github.com/bhauman/devcards
 
 ### datomic
 
