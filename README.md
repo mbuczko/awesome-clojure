@@ -274,6 +274,8 @@ Other interesting libraries, style guides, etc. found on github
 | Control throughput of function calls and core.async channels | https://github.com/brunoV/throttler
 | Managing Clojure app state since (reset) | https://github.com/tolitius/mount
 | "Smarter" threading macros | https://github.com/maitria/packthread
+| Human dates | https://github.com/philjackson/wordy-date
+| The linguist that parses text into structured data | https://duckling.wit.ai/
 
 ## youtube
 
