@@ -32,6 +32,7 @@ Collection of useful links for Clojurians.  Inspired by other awesome-* stuffs.
 | Anna Pawlicka | http://annapawlicka.com/
 | Jessica Kerr | http://blog.jessitron.com/
 | Stuart Sierra | http://stuartsierra.com/
+| Adam Bard | https://adambard.com/blog/
 | Parallel Universe | http://blog.paralleluniverse.co
 
 ## articles
