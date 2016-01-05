@@ -71,6 +71,7 @@ Collection of useful links for Clojurians.  Inspired by other awesome-* stuffs.
 | Clojure Design Patterns | http://mishadoff.com/blog/clojure-design-patterns/
 | 20 cool Clojure functions | http://daveyarwood.github.io/2014/07/30/20-cool-clojure-functions/
 | Processing documents with transducers | http://blog.juxt.pro/posts/xpath-in-transducers.html
+| Deploying a Clojure web app with Pallet | https://adambard.com/blog/deploying-a-clojure-project-with-pallet/
 
 ## documentation
 
