@@ -73,6 +73,8 @@ Collection of useful links for Clojurians.  Inspired by other awesome-* stuffs.
 | 20 cool Clojure functions | http://daveyarwood.github.io/2014/07/30/20-cool-clojure-functions/
 | Processing documents with transducers | http://blog.juxt.pro/posts/xpath-in-transducers.html
 | Deploying a Clojure web app with Pallet | https://adambard.com/blog/deploying-a-clojure-project-with-pallet/
+| Using Transducers with Core.async in ClojureScript | http://blog.venanti.us/using-transducers-with-core-async-clojurescript/
+| TDD in Clojure | https://engineering.fundingcircle.com/blog/2016/01/11/tdd-in-clojure/
 
 ## documentation
 
