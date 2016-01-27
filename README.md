@@ -139,6 +139,7 @@ http://boot-clj.com/
 |-------------|------|
 | Boot, the Fancy New Clojure Build Framework | http://www.flyingmachinestudios.com/programming/boot-clj/
 | Advanced Boot Scripting | https://lionfacelemonface.wordpress.com/2015/04/11/advanced-boot-scripting/
+| Clojurescript Boot Live-Reload | https://adambard.com/blog/clojurescript-boot-fireplace/
 
 ### hoplon
 
