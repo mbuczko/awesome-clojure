@@ -101,6 +101,7 @@ https://github.com/clojure/clojurescript
 
 | Description | Link |
 |-------------|------|
+| Clojurescript awesomeness | https://github.com/emrehan/awesome-clojurescript
 | Javascript libraries packaged up with Google Closure externs | https://github.com/cljsjs/packages / http://cljsjs.github.io/
 | Kioo example | http://adambard.com/blog/a-simple-clojurescript-app/
 | ClojureScript tutorial | http://www.niwi.be/cljs-workshop/
