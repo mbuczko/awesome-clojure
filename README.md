@@ -73,7 +73,6 @@ Collection of useful links for Clojurians.  Inspired by other awesome-* stuffs.
 | 20 cool Clojure functions | http://daveyarwood.github.io/2014/07/30/20-cool-clojure-functions/
 | Processing documents with transducers | http://blog.juxt.pro/posts/xpath-in-transducers.html
 | Deploying a Clojure web app with Pallet | https://adambard.com/blog/deploying-a-clojure-project-with-pallet/
-| Using Transducers with Core.async in ClojureScript | http://blog.venanti.us/using-transducers-with-core-async-clojurescript/
 | TDD in Clojure | https://engineering.fundingcircle.com/blog/2016/01/11/tdd-in-clojure/
 
 ## documentation
@@ -129,6 +128,8 @@ Facilities for async programming and communication in Clojure
 |-------------|------|
 | Examples | https://github.com/halgari/clojure-conj-2013-core.async-examples/blob/master/src/clojure_conj_talk/core.clj
 | Tutorials | https://github.com/martintrojer/go-tutorials-core-async
+| Using Transducers with Core.async in ClojureScript | http://blog.venanti.us/using-transducers-with-core-async-clojurescript/
+| core.async in the browser is sweet | http://ku1ik.com/2015/10/12/sweet-core-async.html
 
 ### boot
 
