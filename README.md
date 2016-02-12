@@ -285,6 +285,7 @@ Other interesting libraries, style guides, etc. found on github
 | "Smarter" threading macros | https://github.com/maitria/packthread
 | Human dates | https://github.com/philjackson/wordy-date
 | The linguist that parses text into structured data | https://duckling.wit.ai/
+| A routing library | https://github.com/Hendrick/avenue
 
 ## youtube
 
