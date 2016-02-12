@@ -185,7 +185,7 @@ http://holmsand.github.io/reagent/
 | Why reagent rocks? | http://www.mattgreer.org/articles/reagent-rocks/
 | TodoMVC for Reagent | https://github.com/tastejs/todomvc
 | Applications built with Reagent | https://github.com/reagent-project/reagent/wiki/Applications-built-with-Reagent
-
+| Beautiful Bootstrap 3 forms for Om, Reagent and Rum | https://github.com/bilus/reforms
 
 ### korma
 
