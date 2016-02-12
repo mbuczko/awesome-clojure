@@ -74,6 +74,7 @@ Collection of useful links for Clojurians.  Inspired by other awesome-* stuffs.
 | Processing documents with transducers | http://blog.juxt.pro/posts/xpath-in-transducers.html
 | Deploying a Clojure web app with Pallet | https://adambard.com/blog/deploying-a-clojure-project-with-pallet/
 | TDD in Clojure | https://engineering.fundingcircle.com/blog/2016/01/11/tdd-in-clojure/
+| Functional-navigational programming with Specter | http://nathanmarz.com/blog/functional-navigational-programming-in-clojurescript-with-sp.html
 
 ## documentation
 
