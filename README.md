@@ -286,6 +286,7 @@ Other interesting libraries, style guides, etc. found on github
 | Human dates | https://github.com/philjackson/wordy-date
 | The linguist that parses text into structured data | https://duckling.wit.ai/
 | A routing library | https://github.com/Hendrick/avenue
+| Syntax threading macros for Clojure | https://github.com/LonoCloud/synthread
 
 ## youtube
 
