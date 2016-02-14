@@ -287,6 +287,7 @@ Other interesting libraries, style guides, etc. found on github
 | The linguist that parses text into structured data | https://duckling.wit.ai/
 | A routing library | https://github.com/Hendrick/avenue
 | Syntax threading macros for Clojure | https://github.com/LonoCloud/synthread
+| Fast clojure json parser | https://github.com/gerritjvv/pjson
 
 ## youtube
 
