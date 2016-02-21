@@ -1,5 +1,5 @@
 # AwesomeClojure [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-Collection of useful links for Clojurians.  Inspired by other awesome-* stuffs.
+> Collection of useful links for Clojurians.  Inspired by other awesome-* stuffs.
 
 - [AwesomeClojure](#AwesomeClojure)
   - [Aggregators](#aggregators)
@@ -8,6 +8,7 @@ Collection of useful links for Clojurians.  Inspired by other awesome-* stuffs.
   - [Documentation] (#documentation)
   - [Projects](#projects)
   - [Utils](#utils)
+  - [Emacs](#emacs)
   - [Github](#github)
   - [YouTube](#youtube)
   - [Twitter](#twitter)
@@ -221,6 +222,16 @@ Utilities making development even more pleasant
 | General Purpose Utilities Library | https://github.com/zcaudate/hara
 | Language extensions for clojurescript | https://github.com/purnam/purnam
 | Give your clojure workflow more flow | https://github.com/zcaudate/vinyasa
+
+## emacs
+Emacs bits and pieces. Definitely worth checking out if you're addicted to this editor.
+
+| Description | Link |
+|-------------|------|
+| Cider IDE that rocks! | https://github.com/clojure-emacs/cider
+| Collection of Clojure refactoring functions | https://github.com/clojure-emacs/clj-refactor.el
+| Help on clojuredocs.org | https://github.com/mbuczko/helm-clojuredocs
+
 
 ## github
 Other interesting libraries, style guides, etc. found on github
