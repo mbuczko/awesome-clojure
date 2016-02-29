@@ -300,6 +300,7 @@ Other interesting libraries, style guides, etc. found on github
 | A routing library | https://github.com/Hendrick/avenue
 | Syntax threading macros for Clojure | https://github.com/LonoCloud/synthread
 | Fast clojure json parser | https://github.com/gerritjvv/pjson
+| Elegant and Efficient remote data access for Clojure(Script) | https://github.com/funcool/urania
 
 ## youtube
 
