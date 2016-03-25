@@ -21,6 +21,7 @@
 | posts from various Clojure hackers and contributors | http://planet.clojure.in/
 | A categorised directory of libraries and tools for Clojure | http://www.clojure-toolbox.com/
 | Clojure daily | http://paper.li/ajlopez/1291580164
+| Open Source Clojure projects | http://open-source.braveclojure.com/
 
 ## blogs
 
