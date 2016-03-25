@@ -17,11 +17,11 @@
 
 | Description | Link |
 |-------------|------|
-| opensource packages in for Clojure ecosystem | http://www.clojuresphere.com/
-| posts from various Clojure hackers and contributors | http://planet.clojure.in/
+| Open-Source packages in for Clojure ecosystem | http://www.clojuresphere.com/
+| Open Source Clojure projects | http://open-source.braveclojure.com/
+| Posts from various Clojure hackers and contributors | http://planet.clojure.in/
 | A categorised directory of libraries and tools for Clojure | http://www.clojure-toolbox.com/
 | Clojure daily | http://paper.li/ajlopez/1291580164
-| Open Source Clojure projects | http://open-source.braveclojure.com/
 
 ## blogs
 
@@ -304,6 +304,7 @@ Other interesting libraries, style guides, etc. found on github
 | Elegant and Efficient remote data access for Clojure(Script) | https://github.com/funcool/urania
 | Hierarchical Timing Wheels for Clojure and ClojureScript | https://github.com/sunng87/rigui
 | Turn files into asynchronous streams | https://github.com/ane/vigil
+| Bidirectional data-driven request routing | https://github.com/aroemers/sibiro
 
 ## youtube
 
