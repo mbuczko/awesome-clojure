@@ -305,6 +305,7 @@ Other interesting libraries, style guides, etc. found on github
 | Hierarchical Timing Wheels for Clojure and ClojureScript | https://github.com/sunng87/rigui
 | Turn files into asynchronous streams | https://github.com/ane/vigil
 | Bidirectional data-driven request routing | https://github.com/aroemers/sibiro
+| Library agnostic way to stub HTTP endpoints in Clojure | https://github.com/johanhaleby/stub-http
 
 ## youtube
 
