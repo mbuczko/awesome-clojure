@@ -307,6 +307,7 @@ Other interesting libraries, style guides, etc. found on github
 | Bidirectional data-driven request routing | https://github.com/aroemers/sibiro
 | Library agnostic way to stub HTTP endpoints in Clojure | https://github.com/johanhaleby/stub-http
 | Query your maps as in Datalog | https://github.com/alandipert/intension
+| A feature flag library for Clojure | https://github.com/plexus/pennon
 
 ## youtube
 
