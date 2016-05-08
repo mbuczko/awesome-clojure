@@ -78,6 +78,7 @@
 | TDD in Clojure | https://engineering.fundingcircle.com/blog/2016/01/11/tdd-in-clojure/
 | Functional-navigational programming with Specter | http://nathanmarz.com/blog/functional-navigational-programming-in-clojurescript-with-sp.html
 | Quickstart Boot and ClojureScript | http://escherize.com/2016/02/29/boot-with-cljs/
+| Managing Maintenance With Riemann | https://kartar.net/2016/04/managing-maintenance-with-riemann/
 
 ## documentation
 
