@@ -311,6 +311,7 @@ Other interesting libraries, style guides, etc. found on github
 | Library agnostic way to stub HTTP endpoints in Clojure | https://github.com/johanhaleby/stub-http
 | Query your maps as in Datalog | https://github.com/alandipert/intension
 | A feature flag library for Clojure | https://github.com/plexus/pennon
+| Clojure Error Message Catalog | https://github.com/yogthos/clojure-error-message-catalog
 
 ## youtube
 
