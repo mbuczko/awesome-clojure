@@ -36,6 +36,7 @@
 | Stuart Sierra | http://stuartsierra.com/
 | Adam Bard | https://adambard.com/blog/
 | Parallel Universe | http://blog.paralleluniverse.co
+| Verma / blog | http://udayv.com/
 
 ## articles
 
