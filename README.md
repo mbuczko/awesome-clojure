@@ -312,6 +312,7 @@ Other interesting libraries, style guides, etc. found on github
 | Query your maps as in Datalog | https://github.com/alandipert/intension
 | A feature flag library for Clojure | https://github.com/plexus/pennon
 | Clojure Error Message Catalog | https://github.com/yogthos/clojure-error-message-catalog
+| Functional, persistent, off-heap, high performance data structure | https://github.com/datacrypt-project/hitchhiker-tree
 
 ## youtube
 
