@@ -315,6 +315,7 @@ Other interesting libraries, style guides, etc. found on github
 | Clojure Error Message Catalog | https://github.com/yogthos/clojure-error-message-catalog
 | Functional, persistent, off-heap, high performance data structure | https://github.com/datacrypt-project/hitchhiker-tree
 | Forward-chaining rules in Clojure | https://github.com/rbrush/clara-rules
+| Monadic error handling | https://github.com/adambard/failjure
 
 ## youtube
 
