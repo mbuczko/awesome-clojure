@@ -81,6 +81,7 @@
 | Quickstart Boot and ClojureScript | http://escherize.com/2016/02/29/boot-with-cljs/
 | Managing Maintenance With Riemann | https://kartar.net/2016/04/managing-maintenance-with-riemann/
 | Using Codox Effectively | http://blog.muhuk.com/2016/05/10/using_codox_effectively.html
+| Clojure-Fu with Juxt | http://blog.jenkster.com/2016/06/clojure-fu-with-juxt.html
 
 ## documentation
 
