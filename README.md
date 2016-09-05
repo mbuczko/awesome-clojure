@@ -319,6 +319,8 @@ Other interesting libraries, style guides, etc. found on github
 | Visualization of Clojure data structures using Graphviz | https://github.com/walmartlabs/datascope
 | Clojure wrapper over failsafe - sophisticated failure handling | https://github.com/sunng87/diehard/
 | One Time Password (TOTP and HOTP) for Clojure | https://github.com/suvash/one-time
+| Mocks, stubs, and spies for Clojure protocols | https://github.com/bguthrie/shrubbery
+| Failure handling with Manifold | https://github.com/tulos/manifail
 
 ## youtube
 
