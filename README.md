@@ -322,6 +322,7 @@ Other interesting libraries, style guides, etc. found on github
 | One Time Password (TOTP and HOTP) for Clojure | https://github.com/suvash/one-time
 | Mocks, stubs, and spies for Clojure protocols | https://github.com/bguthrie/shrubbery
 | Failure handling with Manifold | https://github.com/tulos/manifail
+| A gentle touch of Clojure to Hashicorp's Consul | https://github.com/tolitius/envoy
 
 ## youtube
 
