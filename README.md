@@ -138,7 +138,8 @@ Facilities for async programming and communication in Clojure
 | Examples | https://github.com/halgari/clojure-conj-2013-core.async-examples/blob/master/src/clojure_conj_talk/core.clj
 | Tutorials | https://github.com/martintrojer/go-tutorials-core-async
 | Using Transducers with Core.async in ClojureScript | http://blog.venanti.us/using-transducers-with-core-async-clojurescript/
-| core.async in the browser is sweet | http://ku1ik.com/2015/10/12/sweet-core-async.html
+| Core.async in the browser is sweet | http://ku1ik.com/2015/10/12/sweet-core-async.html
+| Introduction to Asynchronous Programming in Clojure | http://www.bradcypert.com/clojure-async/Introduction to Asynchronous Programming in Clojure
 
 ### boot
 
