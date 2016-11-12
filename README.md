@@ -82,6 +82,7 @@
 | Managing Maintenance With Riemann | https://kartar.net/2016/04/managing-maintenance-with-riemann/
 | Using Codox Effectively | http://blog.muhuk.com/2016/05/10/using_codox_effectively.html
 | Clojure-Fu with Juxt | http://blog.jenkster.com/2016/06/clojure-fu-with-juxt.html
+| Ohce in Clojure using outside-in TDD with Midje | http://garajeando.blogspot.com/2016/07/kata-ohce-in-clojure-using-outside-in.html
 
 ## documentation
 
