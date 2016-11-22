@@ -328,6 +328,7 @@ Other interesting libraries, style guides, etc. found on github
 | A gentle touch of Clojure to Hashicorp's Consul | https://github.com/tolitius/envoy
 | A lightweight library of useful Clojure functions | https://github.com/weavejester/medley
 | Meldable priority queues in Clojure | https://github.com/michalmarczyk/maxiphobe
+| XChart wrapper for Clojure | https://github.com/hyPiRion/clj-xchart
 
 ## youtube
 
