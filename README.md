@@ -327,6 +327,7 @@ Other interesting libraries, style guides, etc. found on github
 | Failure handling with Manifold | https://github.com/tulos/manifail
 | A gentle touch of Clojure to Hashicorp's Consul | https://github.com/tolitius/envoy
 | A lightweight library of useful Clojure functions | https://github.com/weavejester/medley
+| Meldable priority queues in Clojure | https://github.com/michalmarczyk/maxiphobe
 
 ## youtube
 
