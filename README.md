@@ -84,6 +84,7 @@
 | Clojure-Fu with Juxt | http://blog.jenkster.com/2016/06/clojure-fu-with-juxt.html
 | Ohce in Clojure using outside-in TDD with Midje | http://garajeando.blogspot.com/2016/07/kata-ohce-in-clojure-using-outside-in.html
 | Focus on Spec: predicates | http://blog.cognitect.com/blog/2016/8/9/focus-on-spec-predicates
+| Hubble Space Mission Securely Configured | https://www.dotkam.com/2017/01/10/hubble-space-mission-securely-configured/
 
 ## documentation
 
@@ -118,6 +119,7 @@ https://github.com/clojure/clojurescript
 | Translations from Javascript | http://kanaka.github.io/clojurescript/web/synonym.html
 | Modern ClojureScript | https://github.com/magomimmo/modern-cljs
 | Visual REPL experience for ClojureScript | https://github.com/bhauman/devcards
+| A Chrome DevTools fork for ClojureScript developers | https://github.com/binaryage/dirac
 
 ### datomic
 
@@ -330,6 +332,9 @@ Other interesting libraries, style guides, etc. found on github
 | Meldable priority queues in Clojure | https://github.com/michalmarczyk/maxiphobe
 | XChart wrapper for Clojure | https://github.com/hyPiRion/clj-xchart
 | Convenience features making Clojure even sweeter | https://github.com/cloojure/tupelo
+| Elasticsearch client for Clojure | https://github.com/mpenet/spandex
+| A functional Clojure progress bar for the command line | https://github.com/weavejester/progrock
+| Hazelcast bells and whistles under the Clojure belt | https://github.com/tolitius/chazel
 
 ## youtube
 
