@@ -336,6 +336,9 @@ Other interesting libraries, style guides, etc. found on github
 | Elasticsearch client for Clojure | https://github.com/mpenet/spandex
 | A functional Clojure progress bar for the command line | https://github.com/weavejester/progrock
 | Hazelcast bells and whistles under the Clojure belt | https://github.com/tolitius/chazel
+| Clojure library for working with the Github v3 API | https://github.com/irresponsible/tentacles/
+| Reactive Streams for Clojure(Script) | https://github.com/funcool/beicon
+| Clojure/ClojureScript URI library | https://github.com/lambdaisland/uri
 
 ## youtube
 
