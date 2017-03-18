@@ -86,6 +86,7 @@
 | Focus on Spec: predicates | http://blog.cognitect.com/blog/2016/8/9/focus-on-spec-predicates
 | Hubble Space Mission Securely Configured | https://www.dotkam.com/2017/01/10/hubble-space-mission-securely-configured/
 | Consul & Clojure | http://www.surrealanalysis.com/post/clojure-and-consul/
+| Faster meta-development with boot | https://adzerk.com/blog/2017/02/faster-clojure-metadevelopment-with-boot/
 
 ## documentation
 
