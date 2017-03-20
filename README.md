@@ -5,7 +5,7 @@
   - [Aggregators](#aggregators)
   - [Blogs](#blogs)
   - [Articles](#articles)
-  - [Documentation] (#documentation)
+  - [Documentation](#documentation)
   - [Projects](#projects)
   - [Utils](#utils)
   - [Emacs](#emacs)
@@ -122,6 +122,7 @@ https://github.com/clojure/clojurescript
 | Modern ClojureScript | https://github.com/magomimmo/modern-cljs
 | Visual REPL experience for ClojureScript | https://github.com/bhauman/devcards
 | A Chrome DevTools fork for ClojureScript developers | https://github.com/binaryage/dirac
+| Javascript externs generator | https://github.com/jmmk/javascript-externs-generator
 
 ### datomic
 
