@@ -341,6 +341,8 @@ Other interesting libraries, style guides, etc. found on github
 | Clojure library for working with the Github v3 API | https://github.com/irresponsible/tentacles/
 | Reactive Streams for Clojure(Script) | https://github.com/funcool/beicon
 | Clojure/ClojureScript URI library | https://github.com/lambdaisland/uri
+| Command-line interfaces using only docstring | https://github.com/carocad/docopt.clj
+| Rewrite Clojure Code and EDN | https://github.com/xsc/rewrite-clj
 
 ## youtube
 
