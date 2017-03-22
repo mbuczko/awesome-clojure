@@ -343,6 +343,7 @@ Other interesting libraries, style guides, etc. found on github
 | Clojure/ClojureScript URI library | https://github.com/lambdaisland/uri
 | Command-line interfaces using only docstring | https://github.com/carocad/docopt.clj
 | Rewrite Clojure Code and EDN | https://github.com/xsc/rewrite-clj
+| Fast Clojure Matrix Library | https://github.com/uncomplicate/neanderthal
 
 ## youtube
 
