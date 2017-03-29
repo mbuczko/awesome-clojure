@@ -344,6 +344,8 @@ Other interesting libraries, style guides, etc. found on github
 | Command-line interfaces using only docstring | https://github.com/carocad/docopt.clj
 | Rewrite Clojure Code and EDN | https://github.com/xsc/rewrite-clj
 | Fast Clojure Matrix Library | https://github.com/uncomplicate/neanderthal
+| Bidirectional Ring router. REST oriented. Rails inspired.| https://github.com/darkleaf/router
+| Clojure Test Fixtures & Datasources | https://github.com/stylefruits/fixpoint
 
 ## youtube
 
