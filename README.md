@@ -87,6 +87,7 @@
 | Hubble Space Mission Securely Configured | https://www.dotkam.com/2017/01/10/hubble-space-mission-securely-configured/
 | Consul & Clojure | http://www.surrealanalysis.com/post/clojure-and-consul/
 | Faster meta-development with boot | https://adzerk.com/blog/2017/02/faster-clojure-metadevelopment-with-boot/
+| Isolated integration testing with postgres | http://dev.solita.fi/2017/03/09/isolated-integration-testing-with-clojure-and-postgres.html
 
 ## documentation
 
