@@ -272,6 +272,7 @@ Other interesting libraries, style guides, etc. found on github
 | A simple static site generator written in Clojure | https://github.com/lacarmen/cryogen
 | Data processing on Hadoop without the hassle | https://github.com/nathanmarz/cascalog
 | Clojure reducers, but for parallel execution: locally and on distributed systems | https://github.com/aphyr/tesser
+| More transducers and reducing functions for Clojure(script) | https://github.com/cgrand/xforms
 | A thin facade around Coda Hale's metrics library | https://github.com/sjl/metrics-clojure/
 | Multi-class Naive Bayes Classifier library written in Clojure | https://github.com/danielfm/judgr
 | Authentication library for Clojure and Ring based on OAuth2 | https://github.com/pelle/clauth
