@@ -314,7 +314,6 @@ Other interesting libraries, style guides, etc. found on github
 | Yet another "mount" alternative | http://www.functionalbytes.nl//clojure/mount/mount-lite/2016/02/11/mount-lite.html
 | "Smarter" threading macros | https://github.com/maitria/packthread
 | Human dates | https://github.com/philjackson/wordy-date
-| The linguist that parses text into structured data | https://duckling.wit.ai/
 | A routing library | https://github.com/Hendrick/avenue
 | Syntax threading macros for Clojure | https://github.com/LonoCloud/synthread
 | Fast clojure json parser | https://github.com/gerritjvv/pjson
