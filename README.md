@@ -89,6 +89,7 @@
 | Faster meta-development with boot | https://adzerk.com/blog/2017/02/faster-clojure-metadevelopment-with-boot/
 | Isolated integration testing with postgres | http://dev.solita.fi/2017/03/09/isolated-integration-testing-with-clojure-and-postgres.html
 | Reducible streams | http://paul.stadig.name/2016/08/reducible-streams.html
+| The Ultimate Guide to Clojure Concurrency | https://purelyfunctional.tv/guide/clojure-concurrency-the-ultimate-guide/
 
 ## documentation
 
