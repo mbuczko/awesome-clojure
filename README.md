@@ -350,6 +350,7 @@ Other interesting libraries, style guides, etc. found on github
 | Bidirectional Ring router. REST oriented. Rails inspired.| https://github.com/darkleaf/router
 | Clojure Test Fixtures & Datasources | https://github.com/stylefruits/fixpoint
 | Evaluating composable language rules on input strings | https://github.com/dpom/clj-duckling
+| Re-frame with DataScript as a data storage | https://github.com/denistakeda/data-frame
 
 ## youtube
 
