@@ -350,6 +350,7 @@ Other interesting libraries, style guides, etc. found on github
 | Fast Clojure Matrix Library | https://github.com/uncomplicate/neanderthal
 | Bidirectional Ring router. REST oriented. Rails inspired.| https://github.com/darkleaf/router
 | Clojure Test Fixtures & Datasources | https://github.com/stylefruits/fixpoint
+| Evaluating composable language rules on input strings | https://github.com/dpom/clj-duckling
 
 ## youtube
 
