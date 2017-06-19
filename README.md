@@ -351,6 +351,7 @@ Other interesting libraries, style guides, etc. found on github
 | Clojure Test Fixtures & Datasources | https://github.com/stylefruits/fixpoint
 | Evaluating composable language rules on input strings | https://github.com/dpom/clj-duckling
 | Re-frame with DataScript as a data storage | https://github.com/denistakeda/data-frame
+| Fast http api format negotiation, encoding and decoding | https://github.com/metosin/muuntaja
 
 ## youtube
 
