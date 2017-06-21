@@ -352,6 +352,7 @@ Other interesting libraries, style guides, etc. found on github
 | Evaluating composable language rules on input strings | https://github.com/dpom/clj-duckling
 | Re-frame with DataScript as a data storage | https://github.com/denistakeda/data-frame
 | Fast http api format negotiation, encoding and decoding | https://github.com/metosin/muuntaja
+| A remote (CQRS) API library for Clojure | https://github.com/metosin/kekkonen
 
 ## youtube
 
