@@ -354,6 +354,7 @@ Other interesting libraries, style guides, etc. found on github
 | Fast http api format negotiation, encoding and decoding | https://github.com/metosin/muuntaja
 | A remote (CQRS) API library for Clojure | https://github.com/metosin/kekkonen
 | Ring async Server-Sent Events handler | https://github.com/bobby/ring-sse
+| General-purpose ACME client | https://github.com/danielsz/certificaat
 
 ## youtube
 
