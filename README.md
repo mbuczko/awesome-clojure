@@ -355,6 +355,7 @@ Other interesting libraries, style guides, etc. found on github
 | A remote (CQRS) API library for Clojure | https://github.com/metosin/kekkonen
 | Ring async Server-Sent Events handler | https://github.com/bobby/ring-sse
 | General-purpose ACME client | https://github.com/danielsz/certificaat
+| Functional JVM bytecode generation for Clojure | https://github.com/jgpc42/insn
 
 ## youtube
 
