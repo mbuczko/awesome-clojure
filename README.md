@@ -90,6 +90,7 @@
 | Isolated integration testing with postgres | http://dev.solita.fi/2017/03/09/isolated-integration-testing-with-clojure-and-postgres.html
 | Reducible streams | http://paul.stadig.name/2016/08/reducible-streams.html
 | The Ultimate Guide to Clojure Concurrency | https://purelyfunctional.tv/guide/clojure-concurrency-the-ultimate-guide/
+| Domain modelling with clojure.spec | https://adambard.com/blog/domain-modeling-with-clojure-spec/
 
 ## documentation
 
