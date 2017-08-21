@@ -356,6 +356,7 @@ Other interesting libraries, style guides, etc. found on github
 | Ring async Server-Sent Events handler | https://github.com/bobby/ring-sse
 | General-purpose ACME client | https://github.com/danielsz/certificaat
 | Functional JVM bytecode generation for Clojure | https://github.com/jgpc42/insn
+| All functions deserve to be measured | https://github.com/tolitius/calip
 
 ## youtube
 
