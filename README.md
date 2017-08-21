@@ -91,7 +91,8 @@
 | Reducible streams | http://paul.stadig.name/2016/08/reducible-streams.html
 | The Ultimate Guide to Clojure Concurrency | https://purelyfunctional.tv/guide/clojure-concurrency-the-ultimate-guide/
 | Domain modelling with clojure.spec | https://adambard.com/blog/domain-modeling-with-clojure-spec/
-| The Re-frame Building Blocks Guide | https://purelyfunctional.tv/guide/re-frame-building-blocks/
+| Use Matrices Efficiently | http://dragan.rocks/articles/17/Clojure-Numerics-1-Use-Matrices-Efficiently
+
 
 ## documentation
 
@@ -128,6 +129,7 @@ https://github.com/clojure/clojurescript
 | Visual REPL experience for ClojureScript | https://github.com/bhauman/devcards
 | A Chrome DevTools fork for ClojureScript developers | https://github.com/binaryage/dirac
 | Javascript externs generator | https://github.com/jmmk/javascript-externs-generator
+| The Re-frame Building Blocks Guide | https://purelyfunctional.tv/guide/re-frame-building-blocks/
 
 ### datomic
 
