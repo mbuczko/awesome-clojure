@@ -91,6 +91,7 @@
 | Reducible streams | http://paul.stadig.name/2016/08/reducible-streams.html
 | The Ultimate Guide to Clojure Concurrency | https://purelyfunctional.tv/guide/clojure-concurrency-the-ultimate-guide/
 | Domain modelling with clojure.spec | https://adambard.com/blog/domain-modeling-with-clojure-spec/
+| The Re-frame Building Blocks Guide | https://purelyfunctional.tv/guide/re-frame-building-blocks/
 
 ## documentation
 
