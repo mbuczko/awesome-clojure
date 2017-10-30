@@ -94,6 +94,7 @@
 | Use Matrices Efficiently | http://dragan.rocks/articles/17/Clojure-Numerics-1-Use-Matrices-Efficiently
 | Readable Clojure | http://tonsky.me/blog/readable-clojure/
 | Comprehensible Code | https://labs.uswitch.com/comprehensible-code/
+| Clojure transducers from the ground up | https://labs.uswitch.com/transducers-from-the-ground-up-the-practice/
 
 ## documentation
 
@@ -362,7 +363,7 @@ Other interesting libraries, style guides, etc. found on github
 | General-purpose ACME client | https://github.com/danielsz/certificaat
 | Functional JVM bytecode generation for Clojure | https://github.com/jgpc42/insn
 | All functions deserve to be measured | https://github.com/tolitius/calip
-| Functional JVM bytecode generation for Clojure | https://github.com/jgpc42/insn
+
 
 ## youtube
 
