@@ -362,6 +362,7 @@ Other interesting libraries, style guides, etc. found on github
 | General-purpose ACME client | https://github.com/danielsz/certificaat
 | Functional JVM bytecode generation for Clojure | https://github.com/jgpc42/insn
 | All functions deserve to be measured | https://github.com/tolitius/calip
+| Functional JVM bytecode generation for Clojure | https://github.com/jgpc42/insn
 
 ## youtube
 
