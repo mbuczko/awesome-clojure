@@ -366,6 +366,7 @@ Other interesting libraries, style guides, etc. found on github
 | A trace window for re-frame | https://github.com/Day8/re-frame-trace
 | Add structure to a reagent/re-frame app at the page level | https://github.com/gadfly361/re-surface
 | A queue which schedules fairly by key  | https://github.com/acrolinx/clj-queue-by
+| Fork of official Ring Jetty adapter enhanced with servlet-mapping support | https://github.com/jiacai2050/ring-jetty-servlet-adapter
 
 ## youtube
 
