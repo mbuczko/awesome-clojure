@@ -95,6 +95,7 @@
 | Readable Clojure | http://tonsky.me/blog/readable-clojure/
 | Comprehensible Code | https://labs.uswitch.com/comprehensible-code/
 | Clojure transducers from the ground up | https://labs.uswitch.com/transducers-from-the-ground-up-the-practice/
+| Yet another "mount" alternative | http://www.functionalbytes.nl//clojure/mount/mount-lite/2016/02/11/mount-lite.html
 
 ## documentation
 
@@ -317,7 +318,6 @@ Other interesting libraries, style guides, etc. found on github
 | REPL functions to support the reloaded workflow | https://github.com/weavejester/reloaded.repl
 | Control throughput of function calls and core.async channels | https://github.com/brunoV/throttler
 | Managing Clojure app state since (reset) | https://github.com/tolitius/mount
-| Yet another "mount" alternative | http://www.functionalbytes.nl//clojure/mount/mount-lite/2016/02/11/mount-lite.html
 | "Smarter" threading macros | https://github.com/maitria/packthread
 | Human dates | https://github.com/philjackson/wordy-date
 | A routing library | https://github.com/Hendrick/avenue
