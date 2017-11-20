@@ -365,6 +365,7 @@ Other interesting libraries, style guides, etc. found on github
 | All functions deserve to be measured | https://github.com/tolitius/calip
 | A trace window for re-frame | https://github.com/Day8/re-frame-trace
 | Add structure to a reagent/re-frame app at the page level | https://github.com/gadfly361/re-surface
+| A queue which schedules fairly by key  | https://github.com/acrolinx/clj-queue-by
 
 ## youtube
 
