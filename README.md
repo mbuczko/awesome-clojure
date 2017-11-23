@@ -373,7 +373,7 @@ Other interesting libraries, style guides, etc. found on github
 | An isolation framework for Clojure/ClojureScript | https://github.com/metametadata/clj-fakes
 | Reformat Clojure and Clojurescript source code and s-expressions | https://github.com/kkinnear/zprint
 | Lean Hash Array Mapped Trie (Lean Map) | https://github.com/bendyworks/lean-map
-
+| Succint and readable integration tests over RESTful APIs | https://github.com/facundoolano/restpect
 
 ## youtube
 
