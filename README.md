@@ -372,6 +372,7 @@ Other interesting libraries, style guides, etc. found on github
 | AWS pure Clojure, spec-based implementation | https://github.com/portkey-cloud/aws-clj-sdk
 | An isolation framework for Clojure/ClojureScript | https://github.com/metametadata/clj-fakes
 | Reformat Clojure and Clojurescript source code and s-expressions | https://github.com/kkinnear/zprint
+| Lean Hash Array Mapped Trie (Lean Map) | https://github.com/bendyworks/lean-map
 
 
 ## youtube
