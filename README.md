@@ -367,6 +367,11 @@ Other interesting libraries, style guides, etc. found on github
 | Add structure to a reagent/re-frame app at the page level | https://github.com/gadfly361/re-surface
 | A queue which schedules fairly by key  | https://github.com/acrolinx/clj-queue-by
 | Fork of official Ring Jetty adapter enhanced with servlet-mapping support | https://github.com/jiacai2050/ring-jetty-servlet-adapter
+| Accessing HDFS, S3, SFTP and other file systems via a single API | https://github.com/oshyshko/uio
+| AWS pure Clojure, spec-based implementation | https://github.com/portkey-cloud/aws-clj-sdk
+| An isolation framework for Clojure/ClojureScript | https://github.com/metametadata/clj-fakes
+
+
 
 ## youtube
 
