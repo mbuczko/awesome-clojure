@@ -374,6 +374,7 @@ Other interesting libraries, style guides, etc. found on github
 | Reformat Clojure and Clojurescript source code and s-expressions | https://github.com/kkinnear/zprint
 | Lean Hash Array Mapped Trie (Lean Map) | https://github.com/bendyworks/lean-map
 | Succint and readable integration tests over RESTful APIs | https://github.com/facundoolano/restpect
+| Fast Idiomatic Pretty Printer | https://github.com/brandonbloom/fipp
 
 ## youtube
 
