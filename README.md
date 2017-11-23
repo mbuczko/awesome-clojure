@@ -375,6 +375,7 @@ Other interesting libraries, style guides, etc. found on github
 | Lean Hash Array Mapped Trie (Lean Map) | https://github.com/bendyworks/lean-map
 | Succint and readable integration tests over RESTful APIs | https://github.com/facundoolano/restpect
 | Fast Idiomatic Pretty Printer | https://github.com/brandonbloom/fipp
+| Graphing tool for Clojure built with the web and interactivity in mind | https://github.com/hswick/jutsu
 
 ## youtube
 
