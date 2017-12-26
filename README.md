@@ -376,6 +376,7 @@ Other interesting libraries, style guides, etc. found on github
 | Succint and readable integration tests over RESTful APIs | https://github.com/facundoolano/restpect
 | Fast Idiomatic Pretty Printer | https://github.com/brandonbloom/fipp
 | Graphing tool for Clojure built with the web and interactivity in mind | https://github.com/hswick/jutsu
+| REPL-based data visualization in the browser | https://github.com/yieldbot/vizard
 
 ## youtube
 
