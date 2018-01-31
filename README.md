@@ -378,6 +378,7 @@ Other interesting libraries, style guides, etc. found on github
 | Graphing tool for Clojure built with the web and interactivity in mind | https://github.com/hswick/jutsu
 | REPL-based data visualization in the browser | https://github.com/yieldbot/vizard
 | Graphql client for re-frame and clojurescript applications | https://github.com/oliyh/re-graph
+| A library of parallel-enabled Clojure functions | https://github.com/reborg/parallel
 
 ## youtube
 
