@@ -97,6 +97,7 @@
 | Clojure transducers from the ground up | https://labs.uswitch.com/transducers-from-the-ground-up-the-practice/
 | Yet another "mount" alternative | http://www.functionalbytes.nl//clojure/mount/mount-lite/2016/02/11/mount-lite.html
 | Performance nemesis: reflection | http://clojure-goes-fast.com/blog/performance-nemesis-reflection/
+| Introspection tools: Java decompilers | http://clojure-goes-fast.com/blog/introspection-tools-java-decompilers/
 
 ## documentation
 
