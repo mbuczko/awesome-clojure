@@ -99,6 +99,7 @@
 | Performance nemesis: reflection | http://clojure-goes-fast.com/blog/performance-nemesis-reflection/
 | Introspection tools: Java decompilers | http://clojure-goes-fast.com/blog/introspection-tools-java-decompilers/
 | Reitit, Data-Driven Routing with Clojure(Script) | http://www.metosin.fi/blog/reitit/
+| How We Built Whimsical | https://whimsical.co/tech/how-we-built-whimsical/
 
 ## documentation
 
