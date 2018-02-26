@@ -380,6 +380,9 @@ Other interesting libraries, style guides, etc. found on github
 | REPL-based data visualization in the browser | https://github.com/yieldbot/vizard
 | Graphql client for re-frame and clojurescript applications | https://github.com/oliyh/re-graph
 | A library of parallel-enabled Clojure functions | https://github.com/reborg/parallel
+| Structural diffs for clojure source code | https://github.com/ladderlife/autochrome
+| Homoglyph/IDN homograph detection/handling | https://github.com/mpenet/thorn
+| A fast data-driven router for Clojure(Script) | https://github.com/metosin/reitit
 
 ## youtube
 
