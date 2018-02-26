@@ -98,6 +98,7 @@
 | Yet another "mount" alternative | http://www.functionalbytes.nl//clojure/mount/mount-lite/2016/02/11/mount-lite.html
 | Performance nemesis: reflection | http://clojure-goes-fast.com/blog/performance-nemesis-reflection/
 | Introspection tools: Java decompilers | http://clojure-goes-fast.com/blog/introspection-tools-java-decompilers/
+| Reitit, Data-Driven Routing with Clojure(Script) | http://www.metosin.fi/blog/reitit/
 
 ## documentation
 
