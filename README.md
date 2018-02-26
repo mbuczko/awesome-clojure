@@ -214,16 +214,6 @@ http://holmsand.github.io/reagent/
 | Applications built with Reagent | https://github.com/reagent-project/reagent/wiki/Applications-built-with-Reagent
 | Beautiful Bootstrap 3 forms for Om, Reagent and Rum | https://github.com/bilus/reforms
 
-### korma
-
-Korma is a domain specific language for Clojure that takes the pain out of working with your favorite RDBMS. Built for speed and designed for flexibility.
-
-http://sqlkorma.com
-
-| Description | Link |
-|-------------|------|
-| Tasty korma recipes | http://lab.brightnorth.co.uk/2014/10/03/tasty-korma-recipies/
-
 ### riemann
 
 Riemann aggregates events from your servers and applications with a powerful stream processing language.
