@@ -375,6 +375,7 @@ Other interesting libraries, style guides, etc. found on github
 | Structural diffs for clojure source code | https://github.com/ladderlife/autochrome
 | Homoglyph/IDN homograph detection/handling | https://github.com/mpenet/thorn
 | A fast data-driven router for Clojure(Script) | https://github.com/metosin/reitit
+| A durable datalog implementation adaptable for distribution | https://github.com/replikativ/datahike
 
 ## youtube
 
