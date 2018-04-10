@@ -377,6 +377,7 @@ Other interesting libraries, style guides, etc. found on github
 | Homoglyph/IDN homograph detection/handling | https://github.com/mpenet/thorn
 | A fast data-driven router for Clojure(Script) | https://github.com/metosin/reitit
 | A durable datalog implementation adaptable for distribution | https://github.com/replikativ/datahike
+| An all-purpose Clojure graph data structure that implements Loom protocols and more | https://github.com/Engelberg/ubergraph
 
 ## youtube
 
