@@ -381,6 +381,7 @@ Other interesting libraries, style guides, etc. found on github
 | An all-purpose Clojure graph data structure that implements Loom protocols and more | https://github.com/Engelberg/ubergraph
 | Clojure/ClojureScript library for stubs, spies and mocks | https://github.com/alexanderjamesking/spy
 | Add function args and return Spec checking via assertions | https://github.com/Provisdom/defn-spec
+| Clojure library for fast JSON encoding and decoding | https://github.com/metosin/jsonista
 
 ## youtube
 
