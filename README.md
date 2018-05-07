@@ -101,6 +101,7 @@
 | Introspection tools: Java decompilers | http://clojure-goes-fast.com/blog/introspection-tools-java-decompilers/
 | Reitit, Data-Driven Routing with Clojure(Script) | http://www.metosin.fi/blog/reitit/
 | How We Built Whimsical | https://whimsical.co/tech/how-we-built-whimsical/
+| Clojure the Devil is in the detail | http://devcycle.co.uk/clojure-is-the-devil/
 
 ## documentation
 
