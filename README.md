@@ -382,6 +382,7 @@ Other interesting libraries, style guides, etc. found on github
 | Clojure/ClojureScript library for stubs, spies and mocks | https://github.com/alexanderjamesking/spy
 | Add function args and return Spec checking via assertions | https://github.com/Provisdom/defn-spec
 | Clojure library for fast JSON encoding and decoding | https://github.com/metosin/jsonista
+| Fetch data from SQL using Clojure(script) | https://github.com/walkable-server/walkable
 
 ## youtube
 
