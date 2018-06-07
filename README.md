@@ -383,6 +383,7 @@ Other interesting libraries, style guides, etc. found on github
 | Add function args and return Spec checking via assertions | https://github.com/Provisdom/defn-spec
 | Clojure library for fast JSON encoding and decoding | https://github.com/metosin/jsonista
 | Fetch data from SQL using Clojure(script) | https://github.com/walkable-server/walkable
+| Asynchronous programming toolkit for clojure and clojurescript | https://github.com/leonoel/missionary
 
 ## youtube
 
