@@ -267,6 +267,8 @@ Other interesting libraries, style guides, etc. found on github
 | Init scheme with service supervision with Boot | https://github.com/danielsz/boot-runit
 | Compatibility layer with the environ library | https://github.com/danielsz/boot-environ
 | Database migrations with Ragtime using Boot | https://github.com/mbuczko/boot-ragtime
+| Your trampoline to Clojure dev toolbox | https://github.com/mbuczko/revolt
+| Clojure implementation of RFC 6749 OAuth 2.0 authorization framework| https://github.com/mbuczko/cerber-oauth2-provider
 | Security library for Clojure | https://github.com/niwibe/buddy
 | Enlive/Enfocus style templating for Facebook's React and Om in ClojureScript | https://github.com/ckirkendall/kioo
 | Produce and consume JMX beans from Clojure | https://github.com/clojure/java.jmx
