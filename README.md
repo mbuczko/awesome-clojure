@@ -384,6 +384,7 @@ Other interesting libraries, style guides, etc. found on github
 | Clojure library for fast JSON encoding and decoding | https://github.com/metosin/jsonista
 | Fetch data from SQL using Clojure(script) | https://github.com/walkable-server/walkable
 | Asynchronous programming toolkit for clojure and clojurescript | https://github.com/leonoel/missionary
+| Clojure mocking library | https://github.com/igrishaev/mockery
 
 ## youtube
 
