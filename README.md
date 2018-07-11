@@ -311,6 +311,7 @@ Other interesting libraries, style guides, etc. found on github
 | New dependencies in REPL on the fly | https://github.com/zcaudate/vinyasa
 | Priority map | https://github.com/clojure/data.priority-map
 | Durable queue implementation | https://github.com/layerware/pgqueue
+| Durable reference types for Clojure | https://github.com/riverford/durable-ref
 | A really lightweight Clojure scheduler | https://github.com/jarohen/chime
 | Interface to the Pikaday js date-picker | https://github.com/timgilbert/cljs-pikaday
 | REPL functions to support the reloaded workflow | https://github.com/weavejester/reloaded.repl
