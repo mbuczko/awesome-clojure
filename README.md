@@ -388,6 +388,7 @@ Other interesting libraries, style guides, etc. found on github
 | Fetch data from SQL using Clojure(script) | https://github.com/walkable-server/walkable
 | Asynchronous programming toolkit for clojure and clojurescript | https://github.com/leonoel/missionary
 | Clojure mocking library | https://github.com/igrishaev/mockery
+| Configuration from various sources | https://github.com/sunng87/stavka
 
 ## youtube
 
