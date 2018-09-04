@@ -389,6 +389,7 @@ Other interesting libraries, style guides, etc. found on github
 | Asynchronous programming toolkit for clojure and clojurescript | https://github.com/leonoel/missionary
 | Clojure mocking library | https://github.com/igrishaev/mockery
 | Configuration from various sources | https://github.com/sunng87/stavka
+| Measure object memory consumption from Clojure | https://github.com/clojure-goes-fast/clj-memory-meter
 
 ## youtube
 
