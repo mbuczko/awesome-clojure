@@ -4,6 +4,7 @@
 - [AwesomeClojure](#AwesomeClojure)
   - [Aggregators](#aggregators)
   - [Blogs](#blogs)
+  - [Chats](#chats)
   - [Articles](#articles)
   - [Documentation](#documentation)
   - [Projects](#projects)
@@ -38,6 +39,14 @@
 | Adam Bard | https://adambard.com/blog/
 | Parallel Universe | http://blog.paralleluniverse.co
 | Verma / blog | http://udayv.com/
+
+## chats
+
+| Description | Link |
+|-------------|------|
+| Clojurians Slack | http://clojurians.net/ 
+| Clojurians Discord | https://discord.gg/kjKb3Gx
+| Lisp Discord (with clojure channel) | https://discord.gg/T5D2EAJ
 
 ## articles
 
