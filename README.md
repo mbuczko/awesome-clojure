@@ -68,7 +68,6 @@
 | Securing Clojure Microservices using buddy | http://rundis.github.io/blog/2015/buddy_auth_part1.html
 | Setup TDD workflow for Clojure | http://suva.sh/2014/10/27/test-workflow-setup-for-clojure/
 | Microservice Architecture With Slacker Cluster | http://sunng.info/blog/blog/2014/07/08/microservice-and-slacker-cluster/
-| Understanding transducers | http://elbenshira.com/blog/understanding-transducers/
 | Testing Clojure with Selenium | https://semaphoreci.com/community/tutorials/testing-clojure-web-applications-with-selenium
 | Testing Clojure web apps with kerodon | https://semaphoreci.com/community/tutorials/testing-clojure-web-applications-with-kerodon
 | Testing Clojurescript with Karma | http://blog.circleci.com/testing-clojurescript-code-with-clojurescript-test-and-karma/
@@ -84,7 +83,6 @@
 | Practical Data Coercion With Prismatic/schema | http://camdez.com/blog/2015/08/27/practical-data-coercion-with-prismatic-schema/
 | Clojure Design Patterns | http://mishadoff.com/blog/clojure-design-patterns/
 | 20 cool Clojure functions | http://daveyarwood.github.io/2014/07/30/20-cool-clojure-functions/
-| Processing documents with transducers | http://blog.juxt.pro/posts/xpath-in-transducers.html
 | Deploying a Clojure web app with Pallet | https://adambard.com/blog/deploying-a-clojure-project-with-pallet/
 | TDD in Clojure | https://engineering.fundingcircle.com/blog/2016/01/11/tdd-in-clojure/
 | Functional-navigational programming with Specter | http://nathanmarz.com/blog/functional-navigational-programming-in-clojurescript-with-sp.html
@@ -93,7 +91,6 @@
 | Using Codox Effectively | http://blog.muhuk.com/2016/05/10/using_codox_effectively.html
 | Clojure-Fu with Juxt | http://blog.jenkster.com/2016/06/clojure-fu-with-juxt.html
 | Ohce in Clojure using outside-in TDD with Midje | http://garajeando.blogspot.com/2016/07/kata-ohce-in-clojure-using-outside-in.html
-| Focus on Spec: predicates | http://blog.cognitect.com/blog/2016/8/9/focus-on-spec-predicates
 | Hubble Space Mission Securely Configured | https://www.dotkam.com/2017/01/10/hubble-space-mission-securely-configured/
 | Consul & Clojure | http://www.surrealanalysis.com/post/clojure-and-consul/
 | Faster meta-development with boot | https://adzerk.com/blog/2017/02/faster-clojure-metadevelopment-with-boot/
@@ -104,13 +101,32 @@
 | Use Matrices Efficiently | http://dragan.rocks/articles/17/Clojure-Numerics-1-Use-Matrices-Efficiently
 | Readable Clojure | http://tonsky.me/blog/readable-clojure/
 | Comprehensible Code | https://labs.uswitch.com/comprehensible-code/
-| Clojure transducers from the ground up | https://labs.uswitch.com/transducers-from-the-ground-up-the-practice/
 | Yet another "mount" alternative | http://www.functionalbytes.nl//clojure/mount/mount-lite/2016/02/11/mount-lite.html
 | Performance nemesis: reflection | http://clojure-goes-fast.com/blog/performance-nemesis-reflection/
 | Introspection tools: Java decompilers | http://clojure-goes-fast.com/blog/introspection-tools-java-decompilers/
 | Reitit, Data-Driven Routing with Clojure(Script) | http://www.metosin.fi/blog/reitit/
 | How We Built Whimsical | https://whimsical.co/tech/how-we-built-whimsical/
 | Clojure the Devil is in the detail | http://devcycle.co.uk/clojure-is-the-devil/
+| Redis streams and Clojure | https://tirkarthi.github.io/programming/2018/08/17/redis-streams-clojure.html
+| Clojure is capable | http://ahungry.com/blog/2018-12-26-Clojure-is-Capable.html
+| Quicker Clojure startup with AppCDS and AOT | https://mjg123.github.io/2017/10/04/AppCDS-and-Clojure.html
+| Hazelcast: Keep your cluster close, but cache closer | https://www.dotkam.com/2017/04/09/hazelcast-keep-your-cluster-close-but-cache-closer/
+
+### Transducers
+
+| Description | Link |
+|-------------|------|
+| Understanding transducers | http://elbenshira.com/blog/understanding-transducers/
+| Processing documents with transducers | http://blog.juxt.pro/posts/xpath-in-transducers.html
+| Clojure transducers from the ground up | https://labs.uswitch.com/transducers-from-the-ground-up-the-practice/
+
+### Specs
+
+| Description | Link |
+|-------------|------|
+| Clojure Spec Tips | http://conan.is/blogging/clojure-spec-tips.html
+| Focus on Spec: predicates | http://blog.cognitect.com/blog/2016/8/9/focus-on-spec-predicates
+| Spec Transformers | https://www.metosin.fi/blog/spec-transformers/
 
 ## documentation
 
@@ -148,6 +164,7 @@ https://github.com/clojure/clojurescript
 | A Chrome DevTools fork for ClojureScript developers | https://github.com/binaryage/dirac
 | Javascript externs generator | https://github.com/jmmk/javascript-externs-generator
 | The Re-frame Building Blocks Guide | https://purelyfunctional.tv/guide/re-frame-building-blocks/
+| How to work with a private library in ClojureScript | https://pupeno.com/2017/05/06/how-to-work-with-a-private-library-in-clojurescript/
 
 ### datomic
 
@@ -184,16 +201,6 @@ http://boot-clj.com/
 | Advanced Boot Scripting | https://lionfacelemonface.wordpress.com/2015/04/11/advanced-boot-scripting/
 | Clojurescript Boot Live-Reload | https://adambard.com/blog/clojurescript-boot-fireplace/
 
-### hoplon
-
-Hoplon provides a number of libraries promoting a simpler model for web applications.
-
-http://hoplon.io/
-
-| Description | Link |
-|-------------|------|
-| Reactive web apps with Hoplon and DataScript | https://skillsmatter.com/skillscasts/5380-reactive-web-apps-with-hoplon-and-datascript
-
 ### om
 
 A ClojureScript interface to Facebook's React.
@@ -218,6 +225,8 @@ http://holmsand.github.io/reagent/
 
 | Description | Link |
 |-------------|------|
+| Reagent deep dive part 1 | http://timothypratley.blogspot.com/2017/01/reagent-deep-dive-part-1.html
+| Reagent deep dive part 2 | http://timothypratley.blogspot.com/2017/01/reagent-deep-dive-part-2-lifecycle-of.html
 | Reagent cookbook | https://github.com/reagent-project/reagent-cookbook
 | Reagent Framework For Writing SPAs, in Clojurescript | https://github.com/Day8/re-frame
 | No-hashes bidirectional routing in re-frame with bidi and pushy | https://carouselapps.com/2015/08/26/no-hashes-bidirectional-routing-in-re-frame-with-bidi-and-pushy/
@@ -260,7 +269,6 @@ Emacs bits and pieces. Definitely worth checking out if you're addicted to this 
 | Cider IDE that rocks! | https://github.com/clojure-emacs/cider
 | Collection of Clojure refactoring functions | https://github.com/clojure-emacs/clj-refactor.el
 | Help on clojuredocs.org | https://github.com/mbuczko/helm-clojuredocs
-
 
 ## github
 Other interesting libraries, style guides, etc. found on github
@@ -399,6 +407,8 @@ Other interesting libraries, style guides, etc. found on github
 | Clojure mocking library | https://github.com/igrishaev/mockery
 | Configuration from various sources | https://github.com/sunng87/stavka
 | Measure object memory consumption from Clojure | https://github.com/clojure-goes-fast/clj-memory-meter
+| Convert REPL interactions into example-based tests | https://github.com/cognitect-labs/transcriptor
+| Lein-jlink | https://github.com/sunng87/lein-jlink
 
 ## youtube
 
