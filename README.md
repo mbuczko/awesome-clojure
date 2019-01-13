@@ -409,6 +409,7 @@ Other interesting libraries, style guides, etc. found on github
 | Measure object memory consumption from Clojure | https://github.com/clojure-goes-fast/clj-memory-meter
 | Convert REPL interactions into example-based tests | https://github.com/cognitect-labs/transcriptor
 | Lein-jlink | https://github.com/sunng87/lein-jlink
+| Programmatic access to AWS services | https://github.com/cognitect-labs/aws-api/
 
 ## youtube
 
