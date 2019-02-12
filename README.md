@@ -45,6 +45,8 @@
 | Description | Link |
 |-------------|------|
 | Clojurians Slack | http://clojurians.net/ 
+| Searchable Slack-archive | https://clojurians.zulipchat.com/#narrow/stream/180378-slack-archive
+| Clojurians Zulip | http://clojurians.zulipchat.com/
 | Clojurians Discord | https://discord.gg/kjKb3Gx
 | Lisp Discord (with clojure channel) | https://discord.gg/T5D2EAJ
 
