@@ -114,7 +114,7 @@
 | Quicker Clojure startup with AppCDS and AOT | https://mjg123.github.io/2017/10/04/AppCDS-and-Clojure.html
 | Hazelcast: Keep your cluster close, but cache closer | https://www.dotkam.com/2017/04/09/hazelcast-keep-your-cluster-close-but-cache-closer/
 
-### Transducers
+### transducers
 
 | Description | Link |
 |-------------|------|
@@ -122,7 +122,7 @@
 | Processing documents with transducers | http://blog.juxt.pro/posts/xpath-in-transducers.html
 | Clojure transducers from the ground up | https://labs.uswitch.com/transducers-from-the-ground-up-the-practice/
 
-### Specs
+### specs
 
 | Description | Link |
 |-------------|------|
@@ -139,8 +139,10 @@ Function description needed? Eager of examples / tutorials? Take a look at one o
 | Community-driven documentation site for the Clojure | http://clojure-doc.org/
 | Community-powered documentation and examples | http://clojuredocs.org/
 | Community Clojure Documentation | http://conj.io/
+| Documentation for Clojure/Script libraries | https://cljdoc.org/
 | Cross-referencing the Clojure ecosystem | http://crossclj.info/
 | Clojure* cheatsheets | http://jafingerhut.github.io/
+| ClojureScript API | http://cljs.github.io/api/
 | ClojureScript cheatsheets | http://cljs.info/cheatsheet/
 
 ## projects
@@ -167,6 +169,7 @@ https://github.com/clojure/clojurescript
 | Javascript externs generator | https://github.com/jmmk/javascript-externs-generator
 | The Re-frame Building Blocks Guide | https://purelyfunctional.tv/guide/re-frame-building-blocks/
 | How to work with a private library in ClojureScript | https://pupeno.com/2017/05/06/how-to-work-with-a-private-library-in-clojurescript/
+| Code-Splitting ClojureScript | https://code.thheller.com/blog/shadow-cljs/2019/03/03/code-splitting-clojurescript.html
 
 ### datomic
 
@@ -412,6 +415,8 @@ Other interesting libraries, style guides, etc. found on github
 | Convert REPL interactions into example-based tests | https://github.com/cognitect-labs/transcriptor
 | Lein-jlink | https://github.com/sunng87/lein-jlink
 | Programmatic access to AWS services | https://github.com/cognitect-labs/aws-api/
+| Zero-configuration command-line HTTP files server | https://github.com/kachayev/nasus
+| Clojure/ClojureScript data transformation library | https://github.com/noprompt/meander
 
 ## youtube
 
