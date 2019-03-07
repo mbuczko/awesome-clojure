@@ -417,6 +417,7 @@ Other interesting libraries, style guides, etc. found on github
 | Programmatic access to AWS services | https://github.com/cognitect-labs/aws-api/
 | Zero-configuration command-line HTTP files server | https://github.com/kachayev/nasus
 | Clojure/ClojureScript data transformation library | https://github.com/noprompt/meander
+| Content-addressable storage | https://github.com/greglook/blocks
 
 ## youtube
 
