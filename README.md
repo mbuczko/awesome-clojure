@@ -418,6 +418,7 @@ Other interesting libraries, style guides, etc. found on github
 | Zero-configuration command-line HTTP files server | https://github.com/kachayev/nasus
 | Clojure/ClojureScript data transformation library | https://github.com/noprompt/meander
 | Content-addressable storage | https://github.com/greglook/blocks
+| Automatic generative testing, side effect detection and evaluation tracing | https://github.com/gnl/ghostwheel
 
 ## youtube
 
