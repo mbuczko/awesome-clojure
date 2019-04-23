@@ -257,6 +257,12 @@ Yada is a library that helps building RESTful web APIs quickly and easily.
 
 http://yada.juxt.pro
 
+### crux
+
+Crux is an open source document database with bitemporal graph queries.
+
+https://juxt.pro/crux/index.html
+
 ## utils
 Utilities making development even more pleasant
 
