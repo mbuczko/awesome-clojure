@@ -261,7 +261,7 @@ http://yada.juxt.pro
 
 Crux is an open source document database with bitemporal graph queries.
 
-https://juxt.pro/crux/index.html
+https://juxt.pro/crux
 
 ## utils
 Utilities making development even more pleasant
@@ -425,6 +425,7 @@ Other interesting libraries, style guides, etc. found on github
 | Clojure/ClojureScript data transformation library | https://github.com/noprompt/meander
 | Content-addressable storage | https://github.com/greglook/blocks
 | Automatic generative testing, side effect detection and evaluation tracing | https://github.com/gnl/ghostwheel
+| A minimal and opinionated linter for Clojure code that sparks joy | https://github.com/borkdude/clj-kondo
 
 ## youtube
 
