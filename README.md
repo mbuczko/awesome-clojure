@@ -426,6 +426,7 @@ Other interesting libraries, style guides, etc. found on github
 | Content-addressable storage | https://github.com/greglook/blocks
 | Automatic generative testing, side effect detection and evaluation tracing | https://github.com/gnl/ghostwheel
 | A minimal and opinionated linter for Clojure code that sparks joy | https://github.com/borkdude/clj-kondo
+| Aspect-oriented Clojure(script) def-forms | https://github.com/galdre/morphe
 
 ## youtube
 
