@@ -263,6 +263,12 @@ Crux is an open source document database with bitemporal graph queries.
 
 https://juxt.pro/crux
 
+### eva
+
+A distributed database-system implementing an entity-attribute-value data-model that is time-aware, accumulative, and atomically consistent.
+
+https://github.com/Workiva/eva
+
 ## utils
 Utilities making development even more pleasant
 
