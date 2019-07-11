@@ -433,6 +433,7 @@ Other interesting libraries, style guides, etc. found on github
 | Automatic generative testing, side effect detection and evaluation tracing | https://github.com/gnl/ghostwheel
 | A minimal and opinionated linter for Clojure code that sparks joy | https://github.com/borkdude/clj-kondo
 | Aspect-oriented Clojure(script) def-forms | https://github.com/galdre/morphe
+| Chronicle Queue helpers | https://github.com/mpenet/tape
 
 ## youtube
 
