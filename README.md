@@ -434,6 +434,7 @@ Other interesting libraries, style guides, etc. found on github
 | A minimal and opinionated linter for Clojure code that sparks joy | https://github.com/borkdude/clj-kondo
 | Aspect-oriented Clojure(script) def-forms | https://github.com/galdre/morphe
 | Chronicle Queue helpers | https://github.com/mpenet/tape
+| String mangling library for Clojure | https://github.com/randomseed-io/smangler
 
 ## youtube
 
