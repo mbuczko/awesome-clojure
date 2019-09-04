@@ -436,6 +436,7 @@ Other interesting libraries, style guides, etc. found on github
 | Chronicle Queue helpers | https://github.com/mpenet/tape
 | String mangling library for Clojure | https://github.com/randomseed-io/smangler
 | Binary byte buffer manipulation reminiscent of C | https://github.com/sonwh98/voodoo
+| cond that supports :let clauses and a number of other conveniences | https://github.com/engelberg/better-cond
 
 ## youtube
 
