@@ -435,6 +435,7 @@ Other interesting libraries, style guides, etc. found on github
 | Aspect-oriented Clojure(script) def-forms | https://github.com/galdre/morphe
 | Chronicle Queue helpers | https://github.com/mpenet/tape
 | String mangling library for Clojure | https://github.com/randomseed-io/smangler
+| Binary byte buffer manipulation reminiscent of C | https://github.com/sonwh98/voodoo
 
 ## youtube
 
