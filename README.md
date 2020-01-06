@@ -113,6 +113,7 @@
 | Clojure is capable | http://ahungry.com/blog/2018-12-26-Clojure-is-Capable.html
 | Quicker Clojure startup with AppCDS and AOT | https://mjg123.github.io/2017/10/04/AppCDS-and-Clojure.html
 | Hazelcast: Keep your cluster close, but cache closer | https://www.dotkam.com/2017/04/09/hazelcast-keep-your-cluster-close-but-cache-closer/
+| Serializing and Deserializing Clojure Fns with Nippy | https://tech.redplanetlabs.com/2020/01/06/serializing-and-deserializing-clojure-fns-with-nippy/
 
 ### transducers
 
