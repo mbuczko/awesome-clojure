@@ -437,6 +437,7 @@ Other interesting libraries, style guides, etc. found on github
 | String mangling library for Clojure | https://github.com/randomseed-io/smangler
 | Binary byte buffer manipulation reminiscent of C | https://github.com/sonwh98/voodoo
 | cond that supports :let clauses and a number of other conveniences | https://github.com/engelberg/better-cond
+| Nippy extension to add ability to freeze and thaw Clojure fns | https://github.com/redplanetlabs/nippy-serializable-fns
 
 ## youtube
 
