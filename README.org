@@ -201,9 +201,9 @@ Emacs bits and pieces. Definitely worth checking out if you're addicted to this 
 - [[https://github.com/clojure-emacs/clj-refactor.el][Collection of Clojure refactoring functions]]
 - [[https://github.com/mbuczko/helm-clojuredocs][Help on clojuredocs.org]]
 * Github
-| Description                                                     | Link                                                     |
-|-----------------------------------------------------------------+----------------------------------------------------------|
+| Description                                                     | Link                                                 |
 |                                                                 | <20>                                                     |
+|-----------------------------------------------------------------+----------------------------------------------------------|
 | A community coding style guide                                  | https://github.com/bbatsov/clojure-style-guide           |
 | This is the home of O'Reilly's Clojure Cookbook                 | https://github.com/clojure-cookbook/clojure-cookbook     |
 | Routing library for Ring                                        | https://github.com/weavejester/compojure/wiki            |
@@ -234,7 +234,7 @@ Emacs bits and pieces. Definitely worth checking out if you're addicted to this 
 | Understanding Clojure Sequences                                 | https://github.com/JulesGosnell/seqspert                 |
 | Erlang-style supervisor error handling for Clojure              | https://github.com/MichaelDrogalis/dire                  |
 | A validation DSL for Clojure & Clojurescript applications       | https://github.com/leonardoborges/bouncer                |
-| Simple scraper and tokenizer for miles.no                       | https://github.com/miles-no/MilesCampHackatonScraper     |
+| Simple scraper and tokenizer                                    | https://github.com/miles-no/MilesCampHackatonScraper     |
 | Clojure template for REST web services in the style of MixRadio | https://github.com/mixradio/mr-clojure                   |
 | Display ghostly yesql defqueries inline, in Emacs               | https://github.com/magnars/yesql-ghosts                  |
 | A lightweight ClojureScript abstraction over ReactJS            | https://github.com/levand/quiescent                      |
