@@ -201,7 +201,6 @@ Emacs bits and pieces. Definitely worth checking out if you're addicted to this 
 - [[https://github.com/clojure-emacs/clj-refactor.el][Collection of Clojure refactoring functions]]
 - [[https://github.com/mbuczko/helm-clojuredocs][Help on clojuredocs.org]]
 * Github
-| <70>                                                            | <20>                                                     |
 | Description                                                     | Link                                                     |
 |-----------------------------------------------------------------+----------------------------------------------------------|
 | A community coding style guide                                  | https://github.com/bbatsov/clojure-style-guide           |
