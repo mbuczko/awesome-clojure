@@ -201,9 +201,9 @@ Emacs bits and pieces. Definitely worth checking out if you're addicted to this 
 - [[https://github.com/clojure-emacs/clj-refactor.el][Collection of Clojure refactoring functions]]
 - [[https://github.com/mbuczko/helm-clojuredocs][Help on clojuredocs.org]]
 * Github
+| <70>                                                            | <20>                                                     |
 | Description                                                     | Link                                                     |
 |-----------------------------------------------------------------+----------------------------------------------------------|
-| <70>                                                           | <20>                                                     |
 | A community coding style guide                                  | https://github.com/bbatsov/clojure-style-guide           |
 | This is the home of O'Reilly's Clojure Cookbook                 | https://github.com/clojure-cookbook/clojure-cookbook     |
 | Routing library for Ring                                        | https://github.com/weavejester/compojure/wiki            |
