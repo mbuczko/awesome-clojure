@@ -351,7 +351,8 @@ Emacs bits and pieces. Definitely worth checking out if you're addicted to this 
 | cond that supports :let clauses and other conveniences          | https://github.com/engelberg/better-cond                 |
 | Nippy extension to add ability to freeze and thaw fns           | https://github.com/redplanetlabs/nippy-serializable-fns  |
 | A replacement for Clojure's proxy                               | https://github.com/redplanetlabs/proxy-plus              |
-
+* Social Media
+Because we love them :)
 ** YouTube
 Must-have YouTube subscriptions:
 
