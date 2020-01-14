@@ -1,6 +1,7 @@
 #+TITLE: Awesome Clojure [[https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg]]
 #+OPTIONS: toc:nil
 #+OPTIONS: num:nil
+#+STARTUP: align shrink content
 
 Collection of useful links for Clojurians. Inspired by other awesome-* stuffs.
 
@@ -113,7 +114,6 @@ Function description needed? Eager of examples / tutorials? Take a look at one o
 - [[https://mjg123.github.io/2017/10/04/AppCDS-and-Clojure.html][Quicker Clojure startup with AppCDS and AOT]]
 - [[https://www.dotkam.com/2017/04/09/hazelcast-keep-your-cluster-close-but-cache-closer/][Hazelcast: Keep your cluster close, but cache closer]]
 - [[https://tech.redplanetlabs.com/2020/01/06/serializing-and-deserializing-clojure-fns-with-nippy/][Serializing and Deserializing Clojure Fns with Nippy]]
-
 *** transducers
 - [[http://elbenshira.com/blog/understanding-transducers/][Understanding transducers]]
 - [[http://blog.juxt.pro/posts/xpath-in-transducers.html][Processing documents with transducers]]
@@ -124,7 +124,6 @@ Function description needed? Eager of examples / tutorials? Take a look at one o
 - [[https://www.metosin.fi/blog/spec-transformers/][Spec Transformers]]
 * Projects
 Following is a list of amazing projects, worth to keep an eye on.
-
 ** clojurescript
 ClojureScript is a new compiler for Clojure that targets JavaScript. It is designed to emit JavaScript code which is compatible with the advanced compilation mode of the Google Closure optimizing compiler - https://github.com/clojure/clojurescript
 
@@ -204,6 +203,7 @@ Emacs bits and pieces. Definitely worth checking out if you're addicted to this 
 * Github
 | Description                                                     | Link                                                     |
 |-----------------------------------------------------------------+----------------------------------------------------------|
+|                                                                 | <20>                                                     |
 | A community coding style guide                                  | https://github.com/bbatsov/clojure-style-guide           |
 | This is the home of O'Reilly's Clojure Cookbook                 | https://github.com/clojure-cookbook/clojure-cookbook     |
 | Routing library for Ring                                        | https://github.com/weavejester/compojure/wiki            |
