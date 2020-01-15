@@ -1,7 +1,7 @@
 #+TITLE: Awesome Clojure [[https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg]]
 #+OPTIONS: toc:nil
 #+OPTIONS: num:nil
-#+STARTUP: align shrink content
+#+STARTUP: align shrink
 
 Collection of useful links for Clojurians. Inspired by other awesome-* stuffs.
 
@@ -188,6 +188,25 @@ Crux is an open source document database with bitemporal graph queries - https:/
 - [[https://dev.to/jorinvo/crux-as-general-purpose-database-kk3][Crux as General-Purpose Database]]
 ** eva
 A distributed database-system implementing an entity-attribute-value data-model that is time-aware, accumulative, and atomically consistent - https://github.com/Workiva/eva
+** my own projects
+Here is the list of my own (some of them forked...) projects that you might be interested in:
+
+- [[https://github.com/mbuczko/cerber-oauth2-provider][Clojure implementation of RFC 6749 OAuth 2.0 authorization framework]]
+- [[https://github.com/mbuczko/cerber-roles][Role Based Access Control]]
+- [[https://github.com/mbuczko/revolt][Revolt - your trampoline to Clojure dev toolbox]]
+- [[https://github.com/mbuczko/revolt-edge][Sample use of Revolt library]]
+- [[https://github.com/mbuczko/revolt-flyway-task][Flyway based migrations task for Revolt]]
+- [[https://github.com/mbuczko/revolt-catapulte-task][JAR deployer / installer for Revolt]]
+- [[https://github.com/mbuczko/clj-qrgen][QR generation with iCal scheme]]
+- [[https://github.com/mbuczko/skalar][Image processing based on pooled GraphicsMagick sessions]]
+- [[https://github.com/mbuczko/embodie][Fetching site-embedded data]]
+- [[https://github.com/mbuczko/metrics-riemann-reporter][Reporting JMX metrics directly to riemann aggregator]]
+- [[https://github.com/mbuczko/logback-riemann-appender][Logback riemann appender]]
+- [[https://github.com/mbuczko/flux][A clojure client for SOLR with nice criteria DSL]]
+- [[https://github.com/mbuczko/categorizer][Category tree made easy]]
+- [[https://github.com/mbuczko/moderator][Fancy scoring of input data]]
+- [[https://github.com/mbuczko/boot-ragtime][Ragtime migrations with Clojure Boot build tool]]
+- [[https://github.com/mbuczko/boot-build-info][Boot task to generate build information]]
 * Utilities
 Utilities making development even more pleasant.
 
