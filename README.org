@@ -12,7 +12,6 @@ PRs nicely welcomed. Please add your suggestions to README.org file.
 * Aggregators
 | Description                                   | Link                                     |
 |-----------------------------------------------+------------------------------------------|
-| Open-Source packages in for Clojure ecosystem | http://www.clojuresphere.com/            |
 | Open Source Clojure projects                  | http://open-source.braveclojure.com/     |
 | Posts from various contributors               | http://planet.clojure.in/                |
 | Libraries and tools for Clojure               | http://www.clojure-toolbox.com/          |
