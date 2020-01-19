@@ -31,6 +31,7 @@ PRs nicely welcomed. Please add your suggestions to README.org file.
 | Adam Bard                  | https://adambard.com/blog/         |
 | Parallel Universe          | http://blog.paralleluniverse.co    |
 | Verma / blog               | http://udayv.com/                  |
+| Lisp Chronicles            | https://lispchronicles.com/        |
 * Chats
 Need to talk with someone? Visit one of following places:
 
@@ -114,6 +115,7 @@ Function description needed? Eager of examples / tutorials? Take a look at one o
 - [[https://mjg123.github.io/2017/10/04/AppCDS-and-Clojure.html][Quicker Clojure startup with AppCDS and AOT]]
 - [[https://www.dotkam.com/2017/04/09/hazelcast-keep-your-cluster-close-but-cache-closer/][Hazelcast: Keep your cluster close, but cache closer]]
 - [[https://tech.redplanetlabs.com/2020/01/06/serializing-and-deserializing-clojure-fns-with-nippy/][Serializing and Deserializing Clojure Fns with Nippy]]
+- [[http://bytopia.org/2016/10/15/beware-of-assertions/][Beware of assertions]]
 *** transducers
 - [[http://elbenshira.com/blog/understanding-transducers/][Understanding transducers]]
 - [[http://blog.juxt.pro/posts/xpath-in-transducers.html][Processing documents with transducers]]
@@ -186,9 +188,14 @@ Yada is a library that helps building RESTful web APIs quickly and easily - http
 Crux is an open source document database with bitemporal graph queries - https://juxt.pro/crux
 
 - [[https://dev.to/jorinvo/crux-as-general-purpose-database-kk3][Crux as General-Purpose Database]]
+** reitit
+Fast data-driven router for Clojure(Script) - https://metosin.github.io/reitit/
+
+- [[https://www.metosin.fi/blog/reitit/][Reitit, Data-Driven Routing with Clojure(Script)]]
+- [[https://www.metosin.fi/blog/reitit-ring/][Data-Driven Ring with Reitit]]
 ** eva
 A distributed database-system implementing an entity-attribute-value data-model that is time-aware, accumulative, and atomically consistent - https://github.com/Workiva/eva
-** my own projects
+** my own (not that amazing ;) projects
 Here is the list of my own (some of them forked...) projects that you might be interested in:
 
 - [[https://github.com/mbuczko/cerber-oauth2-provider][Clojure implementation of RFC 6749 OAuth 2.0 authorization framework]]
@@ -217,6 +224,7 @@ Utilities making development even more pleasant.
 Emacs bits and pieces. Definitely worth checking out if you're addicted to this editor.
 
 - [[https://github.com/clojure-emacs/cider][Cider IDE that rocks!]]
+- [[https://metaredux.com/posts/2019/10/05/hard-cider-project-specific-configuration.html][Hard CIDER: Project-specific Configuration]]
 - [[https://github.com/clojure-emacs/clj-refactor.el][Collection of Clojure refactoring functions]]
 - [[https://github.com/mbuczko/helm-clojuredocs][Help on clojuredocs.org]]
 * Github
