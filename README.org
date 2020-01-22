@@ -10,13 +10,13 @@ PRs nicely welcomed. Please add your suggestions to README.org file.
 #+TOC: headlines 2 local
 
 * Aggregators
-| Description                                   | Link                                     |
-|-----------------------------------------------+------------------------------------------|
-| Open Source Clojure projects                  | http://open-source.braveclojure.com/     |
-| Posts from various contributors               | http://planet.clojure.in/                |
-| Libraries and tools for Clojure               | http://www.clojure-toolbox.com/          |
-| Clojure daily                                 | http://paper.li/ajlopez/1291580164       |
-| Community Curated Clojure Resources           | https://hackr.io/tutorials/learn-clojure |
+| Description                         | Link                                     |
+|-------------------------------------+------------------------------------------|
+| Open Source Clojure projects        | http://open-source.braveclojure.com/     |
+| Posts from various contributors     | http://planet.clojure.in/                |
+| Libraries and tools for Clojure     | http://www.clojure-toolbox.com/          |
+| Clojure daily                       | http://paper.li/ajlopez/1291580164       |
+| Community Curated Clojure Resources | https://hackr.io/tutorials/learn-clojure |
 * Blogs
 | Description                | Link                               |
 |----------------------------+------------------------------------|
@@ -376,6 +376,7 @@ Emacs bits and pieces. Definitely worth checking out if you're addicted to this 
 | cond that supports :let clauses and other conveniences          | https://github.com/engelberg/better-cond                 |
 | Nippy extension to add ability to freeze and thaw fns           | https://github.com/redplanetlabs/nippy-serializable-fns  |
 | A replacement for Clojure's proxy                               | https://github.com/redplanetlabs/proxy-plus              |
+| A library for accessing the OpenCage Geocoding API              | https://github.com/sgsfak/clj-ocgeo                      |
 * Social Media
 Because we love them :)
 ** YouTube
