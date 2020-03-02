@@ -192,6 +192,12 @@ Fast data-driven router for Clojure(Script) - https://metosin.github.io/reitit/
 
 - [[https://www.metosin.fi/blog/reitit/][Reitit, Data-Driven Routing with Clojure(Script)]]
 - [[https://www.metosin.fi/blog/reitit-ring/][Data-Driven Ring with Reitit]]
+** neanderthal
+Fast native-speed matrix and linear algebra in Clojure - https://neanderthal.uncomplicate.org/
+
+Books from the author:
+- [[https://aiprobook.com/deep-learning-for-programmers/][Deep Learning for Programmers]]
+- [[https://aiprobook.com/numerical-linear-algebra-for-programmers/][Numerical Linear Algebra for Programmers]]
 ** eva
 A distributed database-system implementing an entity-attribute-value data-model that is time-aware, accumulative, and atomically consistent - https://github.com/Workiva/eva
 ** my own (not that amazing ;) projects
@@ -377,6 +383,7 @@ Emacs bits and pieces. Definitely worth checking out if you're addicted to this 
 | Nippy extension to add ability to freeze and thaw fns           | https://github.com/redplanetlabs/nippy-serializable-fns  |
 | A replacement for Clojure's proxy                               | https://github.com/redplanetlabs/proxy-plus              |
 | A library for accessing the OpenCage Geocoding API              | https://github.com/sgsfak/clj-ocgeo                      |
+| Save/Load Extensions for Neanderthal                            | https://github.com/katox/neanderthal-stick/              |
 * Social Media
 Because we love them :)
 ** YouTube
