@@ -31,6 +31,7 @@ PRs nicely welcomed. Please add your suggestions to README.org file.
 | Parallel Universe          | http://blog.paralleluniverse.co    |
 | Verma / blog               | http://udayv.com/                  |
 | Lisp Chronicles            | https://lispchronicles.com/        |
+| Clojure goes fast          | http://clojure-goes-fast.com/      |
 * Chats
 Need to talk with someone? Visit one of following places:
 
