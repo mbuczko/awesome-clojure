@@ -200,6 +200,11 @@ Books from the author:
 - [[https://aiprobook.com/numerical-linear-algebra-for-programmers/][Numerical Linear Algebra for Programmers]]
 ** eva
 A distributed database-system implementing an entity-attribute-value data-model that is time-aware, accumulative, and atomically consistent - https://github.com/Workiva/eva
+** graphql
+GraphQL for the Clojure land:
+
+- [[https://github.com/walmartlabs/lacinia][lacinia]] GraphQL implementation in pure Clojure
+- [[https://github.com/graphqlize/graphqlize][graphqlize]] GraphQL API instantly from Postgres and MySQL databases
 ** my own (not that amazing ;) projects
 Here is the list of my own (some of them forked...) projects that you might be interested in:
 
