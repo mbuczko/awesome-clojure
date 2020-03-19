@@ -32,6 +32,7 @@ PRs nicely welcomed. Please add your suggestions to README.org file.
 | Verma / blog               | http://udayv.com/                  |
 | Lisp Chronicles            | https://lispchronicles.com/        |
 | Clojure goes fast          | http://clojure-goes-fast.com/      |
+| Inside Clojure             | https://insideclojure.org/         |
 * Chats
 Need to talk with someone? Visit one of following places:
 
@@ -119,7 +120,8 @@ Function description needed? Eager of examples / tutorials? Take a look at one o
 *** transducers
 - [[http://elbenshira.com/blog/understanding-transducers/][Understanding transducers]]
 - [[http://blog.juxt.pro/posts/xpath-in-transducers.html][Processing documents with transducers]]
-- [[https://labs.uswitch.com/transducers-from-the-ground-up-the-practice/][Clojure transducers from the ground up]]
+- [[https://labs.uswitch.com/transducers-from-the-ground-up-the-practice/][Transducers from the ground up]]
+- [[https://www.astrecipes.net/blog/2016/11/24/transducers-how-to/][Transducers how-to]]
 *** specs
 - [[http://conan.is/blogging/clojure-spec-tips.html][Clojure Spec Tips]]
 - [[http://blog.cognitect.com/blog/2016/8/9/focus-on-spec-predicates][Focus on Spec: predicates]]
