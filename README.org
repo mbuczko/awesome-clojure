@@ -400,6 +400,7 @@ Emacs bits and pieces. Definitely worth checking out if you're addicted to this 
 | Save/Load Extensions for Neanderthal                            | https://github.com/katox/neanderthal-stick/              |
 | Utility functions for working with Redis streams in carmine     | https://github.com/oliyh/carmine-streams                 |
 | Functions as Data                                               | https://github.com/dvlopt/fdat.cljc                      |
+| Native fast-starting Clojure scripting environment              | https://github.com/borkdude/babashka                     |
 * Social Media
 Because we love them :)
 ** YouTube
@@ -432,3 +433,4 @@ People to follow, writing about clojure/lisp:
 - @thelittlelisper (https://twitter.com/thelittlelisper)
 - @pithyless (https://twitter.com/pithyless)
 - @haksior (https://twitter.com/haksior)
+- @borkdude (https://twitter.com/borkdude)
