@@ -159,6 +159,10 @@ Facilities for async programming and communication in Clojure
 - [[http://blog.venanti.us/using-transducers-with-core-async-clojurescript/][Using Transducers with Core.async in ClojureScript]]
 - [[http://ku1ik.com/2015/10/12/sweet-core-async.html][Core.async in the browser is sweet]]
 - [[http://www.bradcypert.com/clojure-async/][Introduction to Asynchronous Programming in Clojure]]
+- [[http://danboykis.com/posts/things-i-wish-i-knew-about-core-async/][Things I Wish I Knew About Core Async in Clojure]]
+- [[http://danboykis.com/posts/core-async-timeout-channels/][Core Async Timeout Channels]]
+- [[https://www.braveclojure.com/core-async/][Mastering Concurrent Processes with core.async]]
+- [[https://blog.venanti.us/using-transducers-with-core-async-clojurescript/][Using transducers with core.async in Clojurescript]]
 ** reagent
 Minimalistic React for ClojureScript - http://holmsand.github.io/reagent/
 
