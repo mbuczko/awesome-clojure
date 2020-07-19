@@ -383,7 +383,7 @@ Emacs bits and pieces. Definitely worth checking out if you're addicted to this 
 | Measure object memory consumption from Clojure                  | https://github.com/clojure-goes-fast/clj-memory-meter    |
 | Convert REPL interactions into example-based tests              | https://github.com/cognitect-labs/transcriptor           |
 | Lein-jlink                                                      | https://github.com/sunng87/lein-jlink                    |
-| Programmatic access to AWS services                             | https://github.com/cognitect-labs/aws-api/               |
+| Programmatic access to AWS services                             | https://github.com/cognitect-labs/aws-api                |
 | Zero-configuration command-line HTTP files server               | https://github.com/kachayev/nasus                        |
 | Clojure/ClojureScript data transformation library               | https://github.com/noprompt/meander                      |
 | Content-addressable storage                                     | https://github.com/greglook/blocks                       |
@@ -397,9 +397,14 @@ Emacs bits and pieces. Definitely worth checking out if you're addicted to this 
 | Nippy extension to add ability to freeze and thaw fns           | https://github.com/redplanetlabs/nippy-serializable-fns  |
 | A replacement for Clojure's proxy                               | https://github.com/redplanetlabs/proxy-plus              |
 | A library for accessing the OpenCage Geocoding API              | https://github.com/sgsfak/clj-ocgeo                      |
-| Save/Load Extensions for Neanderthal                            | https://github.com/katox/neanderthal-stick/              |
+| Save/Load Extensions for Neanderthal                            | https://github.com/katox/neanderthal-stick               |
 | Utility functions for working with Redis streams in carmine     | https://github.com/oliyh/carmine-streams                 |
 | Functions as Data                                               | https://github.com/dvlopt/fdat.cljc                      |
+| Background job queue on top of PostgreSQL                       | https://github.com/metametadata/byplay                   |
+| Implementation of DataLoader in Clojure                         | https://github.com/oliyh/superlifter                     |
+| Datahike with Firebase as data storage                          | https://github.com/alekcz/datahike-firebase              |
+| A data-driven, reagent-wrapper for RoughJS                      | https://github.com/beders/rough-cljs                     |
+| Union Types for clj(s) based on clojure.spec                    | https://github.com/lambdaisland/uniontypes               |
 * Social Media
 Because we love them :)
 ** YouTube
