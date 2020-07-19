@@ -405,6 +405,7 @@ Emacs bits and pieces. Definitely worth checking out if you're addicted to this 
 | Datahike with Firebase as data storage                          | https://github.com/alekcz/datahike-firebase              |
 | A data-driven, reagent-wrapper for RoughJS                      | https://github.com/beders/rough-cljs                     |
 | Union Types for clj(s) based on clojure.spec                    | https://github.com/lambdaisland/uniontypes               |
+| Native fast-starting Clojure scripting environment              | https://github.com/borkdude/babashka                     |
 * Social Media
 Because we love them :)
 ** YouTube
@@ -437,3 +438,4 @@ People to follow, writing about clojure/lisp:
 - @thelittlelisper (https://twitter.com/thelittlelisper)
 - @pithyless (https://twitter.com/pithyless)
 - @haksior (https://twitter.com/haksior)
+- @borkdude (https://twitter.com/borkdude)
