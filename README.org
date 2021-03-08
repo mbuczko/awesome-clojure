@@ -160,6 +160,10 @@ Facilities for async programming and communication in Clojure
 - [[http://blog.venanti.us/using-transducers-with-core-async-clojurescript/][Using Transducers with Core.async in ClojureScript]]
 - [[http://ku1ik.com/2015/10/12/sweet-core-async.html][Core.async in the browser is sweet]]
 - [[http://www.bradcypert.com/clojure-async/][Introduction to Asynchronous Programming in Clojure]]
+- [[http://danboykis.com/posts/things-i-wish-i-knew-about-core-async/][Things I Wish I Knew About Core Async in Clojure]]
+- [[http://danboykis.com/posts/core-async-timeout-channels/][Core Async Timeout Channels]]
+- [[https://www.braveclojure.com/core-async/][Mastering Concurrent Processes with core.async]]
+- [[https://blog.venanti.us/using-transducers-with-core-async-clojurescript/][Using transducers with core.async in Clojurescript]]
 ** reagent
 Minimalistic React for ClojureScript - http://holmsand.github.io/reagent/
 
@@ -412,6 +416,12 @@ Emacs bits and pieces. Definitely worth checking out if you're addicted to this 
 | Embeddable Clojure profiler                                     | https://github.com/jvm-profiling-tools/async-profiler    |
 | DSL for compiling SVG elements with Clojure(script)             | https://github.com/adam-james-v/svg-clj                  |
 | Royally reified regular expressions                             | https://github.com/lambdaisland/regal                    |
+| Background job queue on top of PostgreSQL                       | https://github.com/metametadata/byplay                   |
+| Implementation of DataLoader in Clojure                         | https://github.com/oliyh/superlifter                     |
+| Datahike with Firebase as data storage                          | https://github.com/alekcz/datahike-firebase              |
+| A data-driven, reagent-wrapper for RoughJS                      | https://github.com/beders/rough-cljs                     |
+| Union Types for clj(s) based on clojure.spec                    | https://github.com/lambdaisland/uniontypes               |
+| Native fast-starting Clojure scripting environment              | https://github.com/borkdude/babashka                     |
 * Social Media
 Because we love them :)
 ** YouTube
@@ -444,3 +454,4 @@ People to follow, writing about clojure/lisp:
 - @thelittlelisper (https://twitter.com/thelittlelisper)
 - @pithyless (https://twitter.com/pithyless)
 - @haksior (https://twitter.com/haksior)
+- @borkdude (https://twitter.com/borkdude)
