@@ -116,6 +116,7 @@ Function description needed? Eager of examples / tutorials? Take a look at one o
 - [[https://mjg123.github.io/2017/10/04/AppCDS-and-Clojure.html][Quicker Clojure startup with AppCDS and AOT]]
 - [[https://www.dotkam.com/2017/04/09/hazelcast-keep-your-cluster-close-but-cache-closer/][Hazelcast: Keep your cluster close, but cache closer]]
 - [[https://tech.redplanetlabs.com/2020/01/06/serializing-and-deserializing-clojure-fns-with-nippy/][Serializing and Deserializing Clojure Fns with Nippy]]
+- [[https://medium.com/@pwentz/laziness-in-clojure-3d83645bf7f3][Laziness in Clojure]]
 - [[http://bytopia.org/2016/10/15/beware-of-assertions/][Beware of assertions]]
 *** collections
 - [[https://purelyfunctional.tv/guide/clojure-collections/][Clojure Data Structures Tutorial]]
@@ -214,6 +215,13 @@ GraphQL for the Clojure land:
 
 - [[https://github.com/walmartlabs/lacinia][lacinia]] GraphQL implementation in pure Clojure
 - [[https://github.com/graphqlize/graphqlize][graphqlize]] GraphQL API instantly from Postgres and MySQL databases
+** datalog
+- [[http://www.learndatalogtoday.org/][Learn Datalog Today]] (actually nothing about clojure)
+- [[https://juxt.pro/blog/datascript-dom][Datalog for trees in Clojure]] (practical use of datalog to match and extract information)
+- [[https://github.com/tonsky/datascript][Datascript - Immutable database and Datalog query engine for Clojure, ClojureScript and JS]]
+- [[https://github.com/vvvvalvalval/datalog-rules][Datalog Rules - Utilities for managing Datalog rulesets from Clojure]]
+- [[https://github.com/replikativ/datahike][Datahike - A durable datalog implementation]]
+- [[https://www.youtube.com/watch?v=oo-7mN9WXTw][Domain modeling with datalog]] (why datalog is so cool!)
 ** my own (not that amazing ;) projects
 Here is the list of my own (some of them forked...) projects that you might be interested in:
 
@@ -383,7 +391,7 @@ Emacs bits and pieces. Definitely worth checking out if you're addicted to this 
 | Measure object memory consumption from Clojure                  | https://github.com/clojure-goes-fast/clj-memory-meter    |
 | Convert REPL interactions into example-based tests              | https://github.com/cognitect-labs/transcriptor           |
 | Lein-jlink                                                      | https://github.com/sunng87/lein-jlink                    |
-| Programmatic access to AWS services                             | https://github.com/cognitect-labs/aws-api/               |
+| Programmatic access to AWS services                             | https://github.com/cognitect-labs/aws-api                |
 | Zero-configuration command-line HTTP files server               | https://github.com/kachayev/nasus                        |
 | Clojure/ClojureScript data transformation library               | https://github.com/noprompt/meander                      |
 | Content-addressable storage                                     | https://github.com/greglook/blocks                       |
@@ -397,9 +405,13 @@ Emacs bits and pieces. Definitely worth checking out if you're addicted to this 
 | Nippy extension to add ability to freeze and thaw fns           | https://github.com/redplanetlabs/nippy-serializable-fns  |
 | A replacement for Clojure's proxy                               | https://github.com/redplanetlabs/proxy-plus              |
 | A library for accessing the OpenCage Geocoding API              | https://github.com/sgsfak/clj-ocgeo                      |
-| Save/Load Extensions for Neanderthal                            | https://github.com/katox/neanderthal-stick/              |
+| Save/Load Extensions for Neanderthal                            | https://github.com/katox/neanderthal-stick               |
 | Utility functions for working with Redis streams in carmine     | https://github.com/oliyh/carmine-streams                 |
 | Functions as Data                                               | https://github.com/dvlopt/fdat.cljc                      |
+| Next generation high performance Clojure toolkit                | https://github.com/cnuernber/dtype-next                  |
+| Embeddable Clojure profiler                                     | https://github.com/jvm-profiling-tools/async-profiler    |
+| DSL for compiling SVG elements with Clojure(script)             | https://github.com/adam-james-v/svg-clj                  |
+| Royally reified regular expressions                             | https://github.com/lambdaisland/regal                    |
 * Social Media
 Because we love them :)
 ** YouTube
