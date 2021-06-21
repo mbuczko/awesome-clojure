@@ -125,6 +125,7 @@ Function description needed? Eager of examples / tutorials? Take a look at one o
 - [[http://blog.juxt.pro/posts/xpath-in-transducers.html][Processing documents with transducers]]
 - [[https://labs.uswitch.com/transducers-from-the-ground-up-the-practice/][Transducers from the ground up]]
 - [[https://www.astrecipes.net/blog/2016/11/24/transducers-how-to/][Transducers how-to]]
+- [[https://dawranliou.com/blog/better-performance-with-java-arrays-in-clojure/][Better Performance With Java Arrays In Clojure]]
 *** specs
 - [[http://conan.is/blogging/clojure-spec-tips.html][Clojure Spec Tips]]
 - [[http://blog.cognitect.com/blog/2016/8/9/focus-on-spec-predicates][Focus on Spec: predicates]]
@@ -422,6 +423,8 @@ Emacs bits and pieces. Definitely worth checking out if you're addicted to this 
 | A data-driven, reagent-wrapper for RoughJS                      | https://github.com/beders/rough-cljs                     |
 | Union Types for clj(s) based on clojure.spec                    | https://github.com/lambdaisland/uniontypes               |
 | Native fast-starting Clojure scripting environment              | https://github.com/borkdude/babashka                     |
+| Utilities for managing Datalog rulesets from Clojure            | https://github.com/vvvvalvalval/datalog-rules            |
+| Graph based visualization tool for re-frame event chains        | https://github.com/ertugrulcetin/re-frame-flow           |
 * Social Media
 Because we love them :)
 ** YouTube
