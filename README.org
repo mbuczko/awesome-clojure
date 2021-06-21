@@ -202,6 +202,7 @@ Crux is an open source document database with bitemporal graph queries - https:/
 - [[https://juxt.pro/blog/posts/crux-tutorial-await.html][Crux tutorial - Await transactions]]
 - [[https://nextjournal.com/crux-tutorial/datalog-queries][Datalog Queries with Crux – Mercury Assignment]]
 - [[https://github.com/acgollapalli/dataworks][Dataworks - Hot-swap API endpoints and stream processors]]
+- [[https://martinfowler.com/articles/bitemporal-history.html][Bitemporal History]]
 ** reitit
 Fast data-driven router for Clojure(Script) - https://metosin.github.io/reitit/
 
