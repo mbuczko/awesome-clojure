@@ -288,6 +288,7 @@ Emacs bits and pieces. Definitely worth checking out if you're addicted to this 
 | Multi-class Naive Bayes Classifier                              | https://github.com/danielfm/judgr                        |
 | Auth library for Clojure and Ring based on OAuth2               | https://github.com/pelle/clauth                          |
 | Managed lifecycle of stateful objects in Clojure                | https://github.com/stuartsierra/component                |
+| Execution context as a Clojure map that you can close           | https://github.com/piotr-yuxuan/closeable-map            |
 | Event-driven programming and stream processing toolkit          | https://github.com/clojurewerkz/meltdown                 |
 | Understanding Clojure Sequences                                 | https://github.com/JulesGosnell/seqspert                 |
 | Erlang-style supervisor error handling for Clojure              | https://github.com/MichaelDrogalis/dire                  |
