@@ -322,6 +322,7 @@ Emacs bits and pieces. Definitely worth checking out if you're addicted to this 
 | Interface to the Pikaday js date-picker                         | https://github.com/timgilbert/cljs-pikaday               |
 | REPL functions to support the reloaded workflow                 | https://github.com/weavejester/reloaded.repl             |
 | Control throughput of fn calls and async channels               | https://github.com/brunoV/throttler                      |
+| Command-line args parsing and validation with malli schemas     | https://github.com/piotr-yuxuan/malli-cli                |
 | Managing Clojure app state since (reset)                        | https://github.com/tolitius/mount                        |
 | "Smarter" threading macros                                      | https://github.com/maitria/packthread                    |
 | Human dates                                                     | https://github.com/philjackson/wordy-date                |
