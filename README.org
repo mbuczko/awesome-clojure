@@ -428,6 +428,10 @@ Emacs bits and pieces. Definitely worth checking out if you're addicted to this 
 | Native fast-starting Clojure scripting environment              | https://github.com/borkdude/babashka                     |
 | Utilities for managing Datalog rulesets from Clojure            | https://github.com/vvvvalvalval/datalog-rules            |
 | Graph based visualization tool for re-frame event chains        | https://github.com/ertugrulcetin/re-frame-flow           |
+| ClojureScript wrapper around the JavaScript fetch API.          | https://github.com/lambdaisland/fetch                    |
+| Clojure(Script) library for phrasing spec problems.             | https://github.com/alexanderkiel/phrase                  |
+| Do-it-yourself i18n library for Clojure/Script                  | https://github.com/tonsky/tongue                         |
+| RCF – a REPL-first, async test macro for Clojure/Script         | https://github.com/hyperfiddle/rcf                                                         |
 * Social Media
 Because we love them :)
 ** YouTube
