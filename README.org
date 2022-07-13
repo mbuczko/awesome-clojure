@@ -118,6 +118,7 @@ Function description needed? Eager of examples / tutorials? Take a look at one o
 - [[https://tech.redplanetlabs.com/2020/01/06/serializing-and-deserializing-clojure-fns-with-nippy/][Serializing and Deserializing Clojure Fns with Nippy]]
 - [[https://medium.com/@pwentz/laziness-in-clojure-3d83645bf7f3][Laziness in Clojure]]
 - [[http://bytopia.org/2016/10/15/beware-of-assertions/][Beware of assertions]]
+- [[https://aphyr.com/posts/360-loopr-a-loop-reduction-macro-for-clojure][Loopr: A Loop/Reduction Macro for Clojure]]
 *** collections
 - [[https://purelyfunctional.tv/guide/clojure-collections/][Clojure Data Structures Tutorial]]
 *** transducers
@@ -431,7 +432,9 @@ Emacs bits and pieces. Definitely worth checking out if you're addicted to this 
 | ClojureScript wrapper around the JavaScript fetch API.          | https://github.com/lambdaisland/fetch                    |
 | Clojure(Script) library for phrasing spec problems.             | https://github.com/alexanderkiel/phrase                  |
 | Do-it-yourself i18n library for Clojure/Script                  | https://github.com/tonsky/tongue                         |
-| RCF – a REPL-first, async test macro for Clojure/Script         | https://github.com/hyperfiddle/rcf                                                         |
+| RCF – a REPL-first, async test macro for Clojure/Script         | https://github.com/hyperfiddle/rcf                       |
+| Matcher combinator to compare nested data structures            | https://github.com/nubank/matcher-combinators            |
+| Unorthodox control flow, for Clojurists                         | https://github.com/aphyr/dom-top                         |
 * Social Media
 Because we love them :)
 ** YouTube
