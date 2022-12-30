@@ -10,13 +10,14 @@ PRs nicely welcomed. Please add your suggestions to README.org file.
 #+TOC: headlines 2 local
 
 * Aggregators
-| Description                         | Link                                     |
-|-------------------------------------+------------------------------------------|
-| Open Source Clojure projects        | http://open-source.braveclojure.com/     |
-| Posts from various contributors     | http://planet.clojure.in/                |
-| Libraries and tools for Clojure     | http://www.clojure-toolbox.com/          |
-| Clojure daily                       | http://paper.li/ajlopez/1291580164       |
-| Community Curated Clojure Resources | https://hackr.io/tutorials/learn-clojure |
+| Description                         | Link                                                 |
+|-------------------------------------+------------------------------------------------------|
+| Open Source Clojure projects        | http://open-source.braveclojure.com/                 |
+| Posts from various contributors     | http://planet.clojure.in/                            |
+| Libraries and tools for Clojure     | http://www.clojure-toolbox.com/                      |
+| Clojure daily                       | http://paper.li/ajlopez/1291580164                   |
+| Community Curated Clojure Resources | https://hackr.io/tutorials/learn-clojure             |
+| Clojure graph resources             | https://github.com/simongray/clojure-graph-resources |
 * Blogs
 | Description                | Link                               |
 |----------------------------+------------------------------------|
@@ -435,6 +436,7 @@ Emacs bits and pieces. Definitely worth checking out if you're addicted to this 
 | RCF – a REPL-first, async test macro for Clojure/Script         | https://github.com/hyperfiddle/rcf                       |
 | Matcher combinator to compare nested data structures            | https://github.com/nubank/matcher-combinators            |
 | Unorthodox control flow, for Clojurists                         | https://github.com/aphyr/dom-top                         |
+| Zero dependency efficient read/write of json and csv data       | https://github.com/cnuernber/charred                     |
 * Social Media
 Because we love them :)
 ** YouTube
