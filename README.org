@@ -437,6 +437,8 @@ Emacs bits and pieces. Definitely worth checking out if you're addicted to this 
 | Matcher combinator to compare nested data structures            | https://github.com/nubank/matcher-combinators            |
 | Unorthodox control flow, for Clojurists                         | https://github.com/aphyr/dom-top                         |
 | Zero dependency efficient read/write of json and csv data       | https://github.com/cnuernber/charred                     |
+| A Clojure(Script) & babashka library for dealing with time      | https://github.com/juxt/tick                             |
+| Efficient JavaScript object interop via idiomatic ClojureScript | https://github.com/mfikes/cljs-bean                      |
 * Social Media
 Because we love them :)
 ** YouTube
