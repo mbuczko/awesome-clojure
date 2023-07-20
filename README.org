@@ -263,182 +263,183 @@ Emacs bits and pieces. Definitely worth checking out if you're addicted to this 
 - [[https://github.com/clojure-emacs/clj-refactor.el][Collection of Clojure refactoring functions]]
 - [[https://github.com/mbuczko/helm-clojuredocs][Help on clojuredocs.org]]
 * Github
-| Description                                                     | Link                                                     |
-|-----------------------------------------------------------------+----------------------------------------------------------|
-| A community coding style guide                                  | https://github.com/bbatsov/clojure-style-guide           |
-| This is the home of O'Reilly's Clojure Cookbook                 | https://github.com/clojure-cookbook/clojure-cookbook     |
-| Routing library for Ring                                        | https://github.com/weavejester/compojure/wiki            |
-| Example project for Cljs/Om using Boot                          | https://github.com/Deraen/saapas                         |
-| Clojure static page generation using boot                       | https://github.com/DanThiffault/boot-pages               |
-| Simple css/js asset fingerprinting for Boot                     | https://github.com/pointslope/boot-fingerprint           |
-| Init scheme with service supervision with Boot                  | https://github.com/danielsz/boot-runit                   |
-| Compatibility layer with the environ library                    | https://github.com/danielsz/boot-environ                 |
-| Database migrations with Ragtime using Boot                     | https://github.com/mbuczko/boot-ragtime                  |
-| Your trampoline to Clojure dev toolbox                          | https://github.com/mbuczko/revolt                        |
-| Clojure implementation of RFC 6749 OAuth 2.0                    | https://github.com/mbuczko/cerber-oauth2-provider        |
-| Security library for Clojure                                    | https://github.com/niwibe/buddy                          |
-| Enlive/Enfocus style templating for Facebook's React            | https://github.com/ckirkendall/kioo                      |
-| Produce and consume JMX beans from Clojure                      | https://github.com/clojure/java.jmx                      |
-| Clojure library for using SQL                                   | https://github.com/krisajenkins/yesql                    |
-| Source code documentation tool                                  | https://github.com/gdeer81/marginalia                    |
-| Clojure documentation tool                                      | https://github.com/weavejester/codox                     |
-| Functions with parameter pattern matching like erlang           | https://github.com/killme2008/defun                      |
-| A simple static site generator written in Clojure               | https://github.com/lacarmen/cryogen                      |
-| Data processing on Hadoop without the hassle                    | https://github.com/nathanmarz/cascalog                   |
-| Reducers, but for parallel execution                            | https://github.com/aphyr/tesser                          |
-| Transducers and reducing functions for Clojure(Script)          | https://github.com/cgrand/xforms                         |
-| A thin facade around Coda Hale's metrics library                | https://github.com/sjl/metrics-clojure/                  |
-| Multi-class Naive Bayes Classifier                              | https://github.com/danielfm/judgr                        |
-| Auth library for Clojure and Ring based on OAuth2               | https://github.com/pelle/clauth                          |
-| Managed lifecycle of stateful objects in Clojure                | https://github.com/stuartsierra/component                |
-| State management with a `java.io.Closeable` map                 | https://github.com/piotr-yuxuan/closeable-map            |
-| Event-driven programming and stream processing toolkit          | https://github.com/clojurewerkz/meltdown                 |
-| Understanding Clojure Sequences                                 | https://github.com/JulesGosnell/seqspert                 |
-| Erlang-style supervisor error handling for Clojure              | https://github.com/MichaelDrogalis/dire                  |
-| A validation DSL for Clojure & Clojurescript applications       | https://github.com/leonardoborges/bouncer                |
-| Simple scraper and tokenizer                                    | https://github.com/miles-no/MilesCampHackatonScraper     |
-| Clojure template for REST web services in the style of MixRadio | https://github.com/mixradio/mr-clojure                   |
-| Display ghostly yesql defqueries inline, in Emacs               | https://github.com/magnars/yesql-ghosts                  |
-| A lightweight ClojureScript abstraction over ReactJS            | https://github.com/levand/quiescent                      |
-| Clojure file and directory watcher                              | https://github.com/wkf/hawk                              |
-| Types again :)                                                  | https://github.com/arrdem/guten-tag                      |
-| ClojureScript interface to local/session storage                | https://github.com/funcool/hodgepodge                    |
-| A tiny Clojure routing library for Ring                         | https://github.com/taylorlapeyre/nav                     |
-| Minimal React wrapper for ClojureScript                         | https://github.com/tonsky/rum                            |
-| A Ragtime extention for ArangoDB                                | https://github.com/deusdat/waller                        |
-| Contracts programming with Clojure                              | https://github.com/fogus/trammel                         |
-| Threadpool tools for Clojure                                    | https://github.com/TheClimateCorporation/claypoole       |
-| Utility library to write microservices                          | https://github.com/zalando-stups/friboo                  |
-| Experimental multilenses                                        | https://github.com/ctford/traversy                       |
-| A Constraint Programming library for Clojure                    | https://github.com/aengelberg/loco                       |
-| Logo in Clojure                                                 | https://github.com/google/clojure-turtle                 |
-| Elegant and efficient remote data access                        | https://github.com/kachayev/muse                         |
-| Geometry toolkit for Clojure/ClojureScript                      | https://github.com/thi-ng/geom                           |
-| DSL for building client to remote service APIs                  | https://github.com/outpace/remote                        |
-| Trace-oriented debugging tools for Clojure                      | https://github.com/dgrnbrg/spyscope                      |
-| New dependencies in REPL on the fly                             | https://github.com/zcaudate/vinyasa                      |
-| Priority map                                                    | https://github.com/clojure/data.priority-map             |
-| Durable queue implementation                                    | https://github.com/layerware/pgqueue                     |
-| Durable reference types for Clojure                             | https://github.com/riverford/durable-ref                 |
-| A really lightweight Clojure scheduler                          | https://github.com/jarohen/chime                         |
-| Interface to the Pikaday js date-picker                         | https://github.com/timgilbert/cljs-pikaday               |
-| REPL functions to support the reloaded workflow                 | https://github.com/weavejester/reloaded.repl             |
-| Control throughput of fn calls and async channels               | https://github.com/brunoV/throttler                      |
-| Command-line args parsing and validation with malli schemas     | https://github.com/piotr-yuxuan/malli-cli                |
-| Managing Clojure app state since (reset)                        | https://github.com/tolitius/mount                        |
-| "Smarter" threading macros                                      | https://github.com/maitria/packthread                    |
-| Human dates                                                     | https://github.com/philjackson/wordy-date                |
-| A routing library                                               | https://github.com/Hendrick/avenue                       |
-| Syntax threading macros for Clojure                             | https://github.com/LonoCloud/synthread                   |
-| Fast clojure json parser                                        | https://github.com/gerritjvv/pjson                       |
-| Elegant remote data access for Clojure(Script)                  | https://github.com/funcool/urania                        |
-| Hierarchical Timing Wheels for Clojure(Script)                  | https://github.com/sunng87/rigui                         |
-| Turn files into asynchronous streams                            | https://github.com/ane/vigil                             |
-| Bidirectional data-driven request routing                       | https://github.com/aroemers/sibiro                       |
-| Library agnostic way to stub HTTP endpoints                     | https://github.com/johanhaleby/stub-http                 |
-| Query your maps as in Datalog                                   | https://github.com/alandipert/intension                  |
-| A feature flag library for Clojure                              | https://github.com/plexus/pennon                         |
-| Clojure Error Message Catalog                                   | https://github.com/yogthos/clojure-error-message-catalog |
-| Functional, persistent, performant data structure               | https://github.com/datacrypt-project/hitchhiker-tree     |
-| Forward-chaining rules in Clojure                               | https://github.com/rbrush/clara-rules                    |
-| Monadic error handling                                          | https://github.com/adambard/failjure                     |
-| Visualization of Clojure data structures using Graphviz         | https://github.com/walmartlabs/datascope                 |
-| Clojure wrapper over failsafe                                   | https://github.com/sunng87/diehard/                      |
-| One Time Password (TOTP and HOTP) for Clojure                   | https://github.com/suvash/one-time                       |
-| Mocks, stubs, and spies for Clojure protocols                   | https://github.com/bguthrie/shrubbery                    |
-| Failure handling with Manifold                                  | https://github.com/tulos/manifail                        |
-| A gentle touch of Clojure to Hashicorp's Consul                 | https://github.com/tolitius/envoy                        |
-| A lightweight library of useful Clojure functions               | https://github.com/weavejester/medley                    |
-| Meldable priority queues in Clojure                             | https://github.com/michalmarczyk/maxiphobe               |
-| XChart wrapper for Clojure                                      | https://github.com/hyPiRion/clj-xchart                   |
-| Convenience features making Clojure even sweeter                | https://github.com/cloojure/tupelo                       |
-| Elasticsearch client for Clojure                                | https://github.com/mpenet/spandex                        |
-| A functional Clojure progress bar for the CLI                   | https://github.com/weavejester/progrock                  |
-| Hazelcast bells and whistles under the belt                     | https://github.com/tolitius/chazel                       |
-| Clojure library for working with the GH v3 API                  | https://github.com/irresponsible/tentacles/              |
-| Reactive Streams for Clojure(Script)                            | https://github.com/funcool/beicon                        |
-| Clojure/ClojureScript URI library                               | https://github.com/lambdaisland/uri                      |
-| Command-line interfaces using only docstring                    | https://github.com/carocad/docopt.clj                    |
-| Rewrite Clojure Code and EDN                                    | https://github.com/xsc/rewrite-clj                       |
-| Fast Clojure Matrix Library                                     | https://github.com/uncomplicate/neanderthal              |
-| Bidirectional Ring router. Rails inspired.                      | https://github.com/darkleaf/router                       |
-| Clojure Test Fixtures & Datasources                             | https://github.com/stylefruits/fixpoint                  |
-| Evaluating composable lang rules on input strings               | https://github.com/dpom/clj-duckling                     |
-| Re-frame with DataScript as a data storage                      | https://github.com/denistakeda/data-frame                |
-| Http API format negotiation, encoding and decoding              | https://github.com/metosin/muuntaja                      |
-| A remote (CQRS) API library for Clojure                         | https://github.com/metosin/kekkonen                      |
-| Ring async Server-Sent Events handler                           | https://github.com/bobby/ring-sse                        |
-| General-purpose ACME client                                     | https://github.com/danielsz/certificaat                  |
-| Functional JVM bytecode generation for Clojure                  | https://github.com/jgpc42/insn                           |
-| All functions deserve to be measured                            | https://github.com/tolitius/calip                        |
-| A trace window for re-frame                                     | https://github.com/Day8/re-frame-trace                   |
-| Add structure to a reagent/re-frame app                         | https://github.com/gadfly361/re-surface                  |
-| A queue which schedules fairly by key                           | https://github.com/acrolinx/clj-queue-by                 |
-| Jetty adapter enhanced with servlet-mapping support             | https://github.com/jiacai2050/ring-jetty-servlet-adapter |
-| Accessing HDFS, S3, SFTP and other fs via a single API          | https://github.com/oshyshko/uio                          |
-| AWS pure Clojure, spec-based implementation                     | https://github.com/portkey-cloud/aws-clj-sdk             |
-| An isolation framework for Clojure/ClojureScript                | https://github.com/metametadata/clj-fakes                |
-| Reformat Clojure(Script) source code and s-expressions          | https://github.com/kkinnear/zprint                       |
-| Lean Hash Array Mapped Trie (Lean Map)                          | https://github.com/bendyworks/lean-map                   |
-| Succint and readable integration tests over RESTful APIs        | https://github.com/facundoolano/restpect                 |
-| Fast Idiomatic Pretty Printer                                   | https://github.com/brandonbloom/fipp                     |
-| Graphing tool for Clojure built with interactivity in mind      | https://github.com/hswick/jutsu                          |
-| REPL-based data visualization in the browser                    | https://github.com/yieldbot/vizard                       |
-| Graphql client for re-frame                                     | https://github.com/oliyh/re-graph                        |
-| A library of parallel-enabled Clojure functions                 | https://github.com/reborg/parallel                       |
-| Structural diffs for clojure source code                        | https://github.com/ladderlife/autochrome                 |
-| Homoglyph/IDN homograph detection/handling                      | https://github.com/mpenet/thorn                          |
-| A fast data-driven router for Clojure(Script)                   | https://github.com/metosin/reitit                        |
-| A durable datalog impl adaptable for distribution               | https://github.com/replikativ/datahike                   |
-| An all-purpose Clojure graph data structure                     | https://github.com/Engelberg/ubergraph                   |
-| Clojure(Script) library for stubs, spies and mocks              | https://github.com/alexanderjamesking/spy                |
-| Add function args and return Spec checks via assertions         | https://github.com/Provisdom/defn-spec                   |
-| Clojure library for fast JSON encoding and decoding             | https://github.com/metosin/jsonista                      |
-| Fetch data from SQL using Clojure(script)                       | https://github.com/walkable-server/walkable              |
-| Asynchronous programming toolkit for clojure(script)            | https://github.com/leonoel/missionary                    |
-| Clojure mocking library                                         | https://github.com/igrishaev/mockery                     |
-| Configuration from various sources                              | https://github.com/sunng87/stavka                        |
-| Measure object memory consumption from Clojure                  | https://github.com/clojure-goes-fast/clj-memory-meter    |
-| Convert REPL interactions into example-based tests              | https://github.com/cognitect-labs/transcriptor           |
-| Lein-jlink                                                      | https://github.com/sunng87/lein-jlink                    |
-| Programmatic access to AWS services                             | https://github.com/cognitect-labs/aws-api                |
-| Zero-configuration command-line HTTP files server               | https://github.com/kachayev/nasus                        |
-| Clojure/ClojureScript data transformation library               | https://github.com/noprompt/meander                      |
-| Content-addressable storage                                     | https://github.com/greglook/blocks                       |
-| Automatic generative testing, side effect detection             | https://github.com/gnl/ghostwheel                        |
-| A minimal and opinionated linter for Clojure code               | https://github.com/borkdude/clj-kondo                    |
-| Aspect-oriented Clojure(script) def-forms                       | https://github.com/galdre/morphe                         |
-| Chronicle Queue helpers                                         | https://github.com/mpenet/tape                           |
-| String mangling library for Clojure                             | https://github.com/randomseed-io/smangler                |
-| Binary byte buffer manipulation reminiscent of C                | https://github.com/sonwh98/voodoo                        |
-| cond that supports :let clauses and other conveniences          | https://github.com/engelberg/better-cond                 |
-| Nippy extension to add ability to freeze and thaw fns           | https://github.com/redplanetlabs/nippy-serializable-fns  |
-| A replacement for Clojure's proxy                               | https://github.com/redplanetlabs/proxy-plus              |
-| A library for accessing the OpenCage Geocoding API              | https://github.com/sgsfak/clj-ocgeo                      |
-| Save/Load Extensions for Neanderthal                            | https://github.com/katox/neanderthal-stick               |
-| Utility functions for working with Redis streams in carmine     | https://github.com/oliyh/carmine-streams                 |
-| Functions as Data                                               | https://github.com/dvlopt/fdat.cljc                      |
-| Next generation high performance Clojure toolkit                | https://github.com/cnuernber/dtype-next                  |
-| Embeddable Clojure profiler                                     | https://github.com/jvm-profiling-tools/async-profiler    |
-| DSL for compiling SVG elements with Clojure(script)             | https://github.com/adam-james-v/svg-clj                  |
-| Royally reified regular expressions                             | https://github.com/lambdaisland/regal                    |
-| Background job queue on top of PostgreSQL                       | https://github.com/metametadata/byplay                   |
-| Implementation of DataLoader in Clojure                         | https://github.com/oliyh/superlifter                     |
-| Datahike with Firebase as data storage                          | https://github.com/alekcz/datahike-firebase              |
-| A data-driven, reagent-wrapper for RoughJS                      | https://github.com/beders/rough-cljs                     |
-| Union Types for clj(s) based on clojure.spec                    | https://github.com/lambdaisland/uniontypes               |
-| Native fast-starting Clojure scripting environment              | https://github.com/borkdude/babashka                     |
-| Utilities for managing Datalog rulesets from Clojure            | https://github.com/vvvvalvalval/datalog-rules            |
-| Graph based visualization tool for re-frame event chains        | https://github.com/ertugrulcetin/re-frame-flow           |
-| ClojureScript wrapper around the JavaScript fetch API.          | https://github.com/lambdaisland/fetch                    |
-| Clojure(Script) library for phrasing spec problems.             | https://github.com/alexanderkiel/phrase                  |
-| Do-it-yourself i18n library for Clojure/Script                  | https://github.com/tonsky/tongue                         |
-| RCF – a REPL-first, async test macro for Clojure/Script         | https://github.com/hyperfiddle/rcf                       |
-| Matcher combinator to compare nested data structures            | https://github.com/nubank/matcher-combinators            |
-| Unorthodox control flow, for Clojurists                         | https://github.com/aphyr/dom-top                         |
-| Zero dependency efficient read/write of json and csv data       | https://github.com/cnuernber/charred                     |
-| A Clojure(Script) & babashka library for dealing with time      | https://github.com/juxt/tick                             |
-| Efficient JavaScript object interop via idiomatic ClojureScript | https://github.com/mfikes/cljs-bean                      |
+| Description                                                                  | Link                                                     |
+|------------------------------------------------------------------------------+----------------------------------------------------------|
+| A community coding style guide                                               | https://github.com/bbatsov/clojure-style-guide           |
+| This is the home of O'Reilly's Clojure Cookbook                              | https://github.com/clojure-cookbook/clojure-cookbook     |
+| Routing library for Ring                                                     | https://github.com/weavejester/compojure/wiki            |
+| Example project for Cljs/Om using Boot                                       | https://github.com/Deraen/saapas                         |
+| Clojure static page generation using boot                                    | https://github.com/DanThiffault/boot-pages               |
+| Simple css/js asset fingerprinting for Boot                                  | https://github.com/pointslope/boot-fingerprint           |
+| Init scheme with service supervision with Boot                               | https://github.com/danielsz/boot-runit                   |
+| Compatibility layer with the environ library                                 | https://github.com/danielsz/boot-environ                 |
+| Database migrations with Ragtime using Boot                                  | https://github.com/mbuczko/boot-ragtime                  |
+| Your trampoline to Clojure dev toolbox                                       | https://github.com/mbuczko/revolt                        |
+| Clojure implementation of RFC 6749 OAuth 2.0                                 | https://github.com/mbuczko/cerber-oauth2-provider        |
+| Security library for Clojure                                                 | https://github.com/niwibe/buddy                          |
+| Enlive/Enfocus style templating for Facebook's React                         | https://github.com/ckirkendall/kioo                      |
+| Produce and consume JMX beans from Clojure                                   | https://github.com/clojure/java.jmx                      |
+| Clojure library for using SQL                                                | https://github.com/krisajenkins/yesql                    |
+| Source code documentation tool                                               | https://github.com/gdeer81/marginalia                    |
+| Clojure documentation tool                                                   | https://github.com/weavejester/codox                     |
+| Functions with parameter pattern matching like erlang                        | https://github.com/killme2008/defun                      |
+| A simple static site generator written in Clojure                            | https://github.com/lacarmen/cryogen                      |
+| Data processing on Hadoop without the hassle                                 | https://github.com/nathanmarz/cascalog                   |
+| Reducers, but for parallel execution                                         | https://github.com/aphyr/tesser                          |
+| Transducers and reducing functions for Clojure(Script)                       | https://github.com/cgrand/xforms                         |
+| A thin facade around Coda Hale's metrics library                             | https://github.com/sjl/metrics-clojure/                  |
+| Multi-class Naive Bayes Classifier                                           | https://github.com/danielfm/judgr                        |
+| Auth library for Clojure and Ring based on OAuth2                            | https://github.com/pelle/clauth                          |
+| Managed lifecycle of stateful objects in Clojure                             | https://github.com/stuartsierra/component                |
+| State management with a `java.io.Closeable` map                              | https://github.com/piotr-yuxuan/closeable-map            |
+| Event-driven programming and stream processing toolkit                       | https://github.com/clojurewerkz/meltdown                 |
+| Understanding Clojure Sequences                                              | https://github.com/JulesGosnell/seqspert                 |
+| Erlang-style supervisor error handling for Clojure                           | https://github.com/MichaelDrogalis/dire                  |
+| A validation DSL for Clojure & Clojurescript applications                    | https://github.com/leonardoborges/bouncer                |
+| Simple scraper and tokenizer                                                 | https://github.com/miles-no/MilesCampHackatonScraper     |
+| Clojure template for REST web services in the style of MixRadio              | https://github.com/mixradio/mr-clojure                   |
+| Display ghostly yesql defqueries inline, in Emacs                            | https://github.com/magnars/yesql-ghosts                  |
+| A lightweight ClojureScript abstraction over ReactJS                         | https://github.com/levand/quiescent                      |
+| Clojure file and directory watcher                                           | https://github.com/wkf/hawk                              |
+| Types again :)                                                               | https://github.com/arrdem/guten-tag                      |
+| ClojureScript interface to local/session storage                             | https://github.com/funcool/hodgepodge                    |
+| A tiny Clojure routing library for Ring                                      | https://github.com/taylorlapeyre/nav                     |
+| Minimal React wrapper for ClojureScript                                      | https://github.com/tonsky/rum                            |
+| A Ragtime extention for ArangoDB                                             | https://github.com/deusdat/waller                        |
+| Contracts programming with Clojure                                           | https://github.com/fogus/trammel                         |
+| Threadpool tools for Clojure                                                 | https://github.com/TheClimateCorporation/claypoole       |
+| Utility library to write microservices                                       | https://github.com/zalando-stups/friboo                  |
+| Experimental multilenses                                                     | https://github.com/ctford/traversy                       |
+| A Constraint Programming library for Clojure                                 | https://github.com/aengelberg/loco                       |
+| Logo in Clojure                                                              | https://github.com/google/clojure-turtle                 |
+| Elegant and efficient remote data access                                     | https://github.com/kachayev/muse                         |
+| Geometry toolkit for Clojure/ClojureScript                                   | https://github.com/thi-ng/geom                           |
+| DSL for building client to remote service APIs                               | https://github.com/outpace/remote                        |
+| Trace-oriented debugging tools for Clojure                                   | https://github.com/dgrnbrg/spyscope                      |
+| New dependencies in REPL on the fly                                          | https://github.com/zcaudate/vinyasa                      |
+| Priority map                                                                 | https://github.com/clojure/data.priority-map             |
+| Durable queue implementation                                                 | https://github.com/layerware/pgqueue                     |
+| Durable reference types for Clojure                                          | https://github.com/riverford/durable-ref                 |
+| A really lightweight Clojure scheduler                                       | https://github.com/jarohen/chime                         |
+| Interface to the Pikaday js date-picker                                      | https://github.com/timgilbert/cljs-pikaday               |
+| REPL functions to support the reloaded workflow                              | https://github.com/weavejester/reloaded.repl             |
+| Control throughput of fn calls and async channels                            | https://github.com/brunoV/throttler                      |
+| Command-line args parsing and validation with malli schemas                  | https://github.com/piotr-yuxuan/malli-cli                |
+| Managing Clojure app state since (reset)                                     | https://github.com/tolitius/mount                        |
+| "Smarter" threading macros                                                   | https://github.com/maitria/packthread                    |
+| Human dates                                                                  | https://github.com/philjackson/wordy-date                |
+| A routing library                                                            | https://github.com/Hendrick/avenue                       |
+| Syntax threading macros for Clojure                                          | https://github.com/LonoCloud/synthread                   |
+| Fast clojure json parser                                                     | https://github.com/gerritjvv/pjson                       |
+| Elegant remote data access for Clojure(Script)                               | https://github.com/funcool/urania                        |
+| Hierarchical Timing Wheels for Clojure(Script)                               | https://github.com/sunng87/rigui                         |
+| Turn files into asynchronous streams                                         | https://github.com/ane/vigil                             |
+| Bidirectional data-driven request routing                                    | https://github.com/aroemers/sibiro                       |
+| Library agnostic way to stub HTTP endpoints                                  | https://github.com/johanhaleby/stub-http                 |
+| Query your maps as in Datalog                                                | https://github.com/alandipert/intension                  |
+| A feature flag library for Clojure                                           | https://github.com/plexus/pennon                         |
+| Clojure Error Message Catalog                                                | https://github.com/yogthos/clojure-error-message-catalog |
+| Functional, persistent, performant data structure                            | https://github.com/datacrypt-project/hitchhiker-tree     |
+| Forward-chaining rules in Clojure                                            | https://github.com/rbrush/clara-rules                    |
+| Monadic error handling                                                       | https://github.com/adambard/failjure                     |
+| Visualization of Clojure data structures using Graphviz                      | https://github.com/walmartlabs/datascope                 |
+| Clojure wrapper over failsafe                                                | https://github.com/sunng87/diehard/                      |
+| One Time Password (TOTP and HOTP) for Clojure                                | https://github.com/suvash/one-time                       |
+| Mocks, stubs, and spies for Clojure protocols                                | https://github.com/bguthrie/shrubbery                    |
+| Failure handling with Manifold                                               | https://github.com/tulos/manifail                        |
+| A gentle touch of Clojure to Hashicorp's Consul                              | https://github.com/tolitius/envoy                        |
+| A lightweight library of useful Clojure functions                            | https://github.com/weavejester/medley                    |
+| Meldable priority queues in Clojure                                          | https://github.com/michalmarczyk/maxiphobe               |
+| XChart wrapper for Clojure                                                   | https://github.com/hyPiRion/clj-xchart                   |
+| Convenience features making Clojure even sweeter                             | https://github.com/cloojure/tupelo                       |
+| Elasticsearch client for Clojure                                             | https://github.com/mpenet/spandex                        |
+| A functional Clojure progress bar for the CLI                                | https://github.com/weavejester/progrock                  |
+| Hazelcast bells and whistles under the belt                                  | https://github.com/tolitius/chazel                       |
+| Clojure library for working with the GH v3 API                               | https://github.com/irresponsible/tentacles/              |
+| Reactive Streams for Clojure(Script)                                         | https://github.com/funcool/beicon                        |
+| Clojure/ClojureScript URI library                                            | https://github.com/lambdaisland/uri                      |
+| Command-line interfaces using only docstring                                 | https://github.com/carocad/docopt.clj                    |
+| Rewrite Clojure Code and EDN                                                 | https://github.com/xsc/rewrite-clj                       |
+| Fast Clojure Matrix Library                                                  | https://github.com/uncomplicate/neanderthal              |
+| Bidirectional Ring router. Rails inspired.                                   | https://github.com/darkleaf/router                       |
+| Clojure Test Fixtures & Datasources                                          | https://github.com/stylefruits/fixpoint                  |
+| Evaluating composable lang rules on input strings                            | https://github.com/dpom/clj-duckling                     |
+| Re-frame with DataScript as a data storage                                   | https://github.com/denistakeda/data-frame                |
+| Http API format negotiation, encoding and decoding                           | https://github.com/metosin/muuntaja                      |
+| A remote (CQRS) API library for Clojure                                      | https://github.com/metosin/kekkonen                      |
+| Ring async Server-Sent Events handler                                        | https://github.com/bobby/ring-sse                        |
+| General-purpose ACME client                                                  | https://github.com/danielsz/certificaat                  |
+| Functional JVM bytecode generation for Clojure                               | https://github.com/jgpc42/insn                           |
+| All functions deserve to be measured                                         | https://github.com/tolitius/calip                        |
+| A trace window for re-frame                                                  | https://github.com/Day8/re-frame-trace                   |
+| Add structure to a reagent/re-frame app                                      | https://github.com/gadfly361/re-surface                  |
+| A queue which schedules fairly by key                                        | https://github.com/acrolinx/clj-queue-by                 |
+| Jetty adapter enhanced with servlet-mapping support                          | https://github.com/jiacai2050/ring-jetty-servlet-adapter |
+| Accessing HDFS, S3, SFTP and other fs via a single API                       | https://github.com/oshyshko/uio                          |
+| AWS pure Clojure, spec-based implementation                                  | https://github.com/portkey-cloud/aws-clj-sdk             |
+| An isolation framework for Clojure/ClojureScript                             | https://github.com/metametadata/clj-fakes                |
+| Reformat Clojure(Script) source code and s-expressions                       | https://github.com/kkinnear/zprint                       |
+| Lean Hash Array Mapped Trie (Lean Map)                                       | https://github.com/bendyworks/lean-map                   |
+| Succint and readable integration tests over RESTful APIs                     | https://github.com/facundoolano/restpect                 |
+| Fast Idiomatic Pretty Printer                                                | https://github.com/brandonbloom/fipp                     |
+| Graphing tool for Clojure built with interactivity in mind                   | https://github.com/hswick/jutsu                          |
+| REPL-based data visualization in the browser                                 | https://github.com/yieldbot/vizard                       |
+| Graphql client for re-frame                                                  | https://github.com/oliyh/re-graph                        |
+| A library of parallel-enabled Clojure functions                              | https://github.com/reborg/parallel                       |
+| Structural diffs for clojure source code                                     | https://github.com/ladderlife/autochrome                 |
+| Homoglyph/IDN homograph detection/handling                                   | https://github.com/mpenet/thorn                          |
+| A fast data-driven router for Clojure(Script)                                | https://github.com/metosin/reitit                        |
+| A durable datalog impl adaptable for distribution                            | https://github.com/replikativ/datahike                   |
+| An all-purpose Clojure graph data structure                                  | https://github.com/Engelberg/ubergraph                   |
+| Clojure(Script) library for stubs, spies and mocks                           | https://github.com/alexanderjamesking/spy                |
+| Add function args and return Spec checks via assertions                      | https://github.com/Provisdom/defn-spec                   |
+| Clojure library for fast JSON encoding and decoding                          | https://github.com/metosin/jsonista                      |
+| Fetch data from SQL using Clojure(script)                                    | https://github.com/walkable-server/walkable              |
+| Asynchronous programming toolkit for clojure(script)                         | https://github.com/leonoel/missionary                    |
+| Clojure mocking library                                                      | https://github.com/igrishaev/mockery                     |
+| Configuration from various sources                                           | https://github.com/sunng87/stavka                        |
+| Measure object memory consumption from Clojure                               | https://github.com/clojure-goes-fast/clj-memory-meter    |
+| Convert REPL interactions into example-based tests                           | https://github.com/cognitect-labs/transcriptor           |
+| Lein-jlink                                                                   | https://github.com/sunng87/lein-jlink                    |
+| Programmatic access to AWS services                                          | https://github.com/cognitect-labs/aws-api                |
+| Zero-configuration command-line HTTP files server                            | https://github.com/kachayev/nasus                        |
+| Clojure/ClojureScript data transformation library                            | https://github.com/noprompt/meander                      |
+| Content-addressable storage                                                  | https://github.com/greglook/blocks                       |
+| Automatic generative testing, side effect detection                          | https://github.com/gnl/ghostwheel                        |
+| A minimal and opinionated linter for Clojure code                            | https://github.com/borkdude/clj-kondo                    |
+| Aspect-oriented Clojure(script) def-forms                                    | https://github.com/galdre/morphe                         |
+| Chronicle Queue helpers                                                      | https://github.com/mpenet/tape                           |
+| String mangling library for Clojure                                          | https://github.com/randomseed-io/smangler                |
+| Binary byte buffer manipulation reminiscent of C                             | https://github.com/sonwh98/voodoo                        |
+| cond that supports :let clauses and other conveniences                       | https://github.com/engelberg/better-cond                 |
+| Nippy extension to add ability to freeze and thaw fns                        | https://github.com/redplanetlabs/nippy-serializable-fns  |
+| A replacement for Clojure's proxy                                            | https://github.com/redplanetlabs/proxy-plus              |
+| A library for accessing the OpenCage Geocoding API                           | https://github.com/sgsfak/clj-ocgeo                      |
+| Save/Load Extensions for Neanderthal                                         | https://github.com/katox/neanderthal-stick               |
+| Utility functions for working with Redis streams in carmine                  | https://github.com/oliyh/carmine-streams                 |
+| Functions as Data                                                            | https://github.com/dvlopt/fdat.cljc                      |
+| Next generation high performance Clojure toolkit                             | https://github.com/cnuernber/dtype-next                  |
+| Embeddable Clojure profiler                                                  | https://github.com/jvm-profiling-tools/async-profiler    |
+| DSL for compiling SVG elements with Clojure(script)                          | https://github.com/adam-james-v/svg-clj                  |
+| Royally reified regular expressions                                          | https://github.com/lambdaisland/regal                    |
+| Background job queue on top of PostgreSQL                                    | https://github.com/metametadata/byplay                   |
+| Implementation of DataLoader in Clojure                                      | https://github.com/oliyh/superlifter                     |
+| Datahike with Firebase as data storage                                       | https://github.com/alekcz/datahike-firebase              |
+| A data-driven, reagent-wrapper for RoughJS                                   | https://github.com/beders/rough-cljs                     |
+| Union Types for clj(s) based on clojure.spec                                 | https://github.com/lambdaisland/uniontypes               |
+| Native fast-starting Clojure scripting environment                           | https://github.com/borkdude/babashka                     |
+| Utilities for managing Datalog rulesets from Clojure                         | https://github.com/vvvvalvalval/datalog-rules            |
+| Graph based visualization tool for re-frame event chains                     | https://github.com/ertugrulcetin/re-frame-flow           |
+| ClojureScript wrapper around the JavaScript fetch API.                       | https://github.com/lambdaisland/fetch                    |
+| Clojure(Script) library for phrasing spec problems.                          | https://github.com/alexanderkiel/phrase                  |
+| Do-it-yourself i18n library for Clojure/Script                               | https://github.com/tonsky/tongue                         |
+| RCF – a REPL-first, async test macro for Clojure/Script                      | https://github.com/hyperfiddle/rcf                       |
+| Matcher combinator to compare nested data structures                         | https://github.com/nubank/matcher-combinators            |
+| Unorthodox control flow, for Clojurists                                      | https://github.com/aphyr/dom-top                         |
+| Zero dependency efficient read/write of json and csv data                    | https://github.com/cnuernber/charred                     |
+| A Clojure(Script) & babashka library for dealing with time                   | https://github.com/juxt/tick                             |
+| Efficient JavaScript object interop via idiomatic ClojureScript              | https://github.com/mfikes/cljs-bean                      |
+| Facilitates calling of client-side functions from server-side generated HTML | https://github.com/thheller/shadow-graft                 |
 * Social Media
 Because we love them :)
 ** YouTube
