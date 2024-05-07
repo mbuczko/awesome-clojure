@@ -132,6 +132,9 @@ Function description needed? Eager of examples / tutorials? Take a look at one o
 - [[http://conan.is/blogging/clojure-spec-tips.html][Clojure Spec Tips]]
 - [[http://blog.cognitect.com/blog/2016/8/9/focus-on-spec-predicates][Focus on Spec: predicates]]
 - [[https://www.metosin.fi/blog/spec-transformers/][Spec Transformers]]
+*** virtual threads
+- [[https://andersmurphy.com/2024/05/06/clojure-managing-throughput-with-virtual-threads.html][Clojure: managing throughput with virtual threads]]
+- [[https://ericnormand.me/guide/clojure-virtual-threads][Virtual Threads in Clojure]]
 * Projects
 Following is a list of amazing projects, worth to keep an eye on.
 ** clojurescript
