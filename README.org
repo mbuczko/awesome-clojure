@@ -443,6 +443,7 @@ Emacs bits and pieces. Definitely worth checking out if you're addicted to this 
 | A Clojure(Script) & babashka library for dealing with time                   | https://github.com/juxt/tick                             |
 | Efficient JavaScript object interop via idiomatic ClojureScript              | https://github.com/mfikes/cljs-bean                      |
 | Facilitates calling of client-side functions from server-side generated HTML | https://github.com/thheller/shadow-graft                 |
+| An extremely lightweight fault tolerance library for Clojure                 | https://github.com/potetm/fusebox                        |
 * Social Media
 Because we love them :)
 ** YouTube
